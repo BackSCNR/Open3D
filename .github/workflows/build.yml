@@ -40,6 +40,7 @@ jobs:
       - name: Install in Python environment
         run: |
           cd build
+          pip install wheel
           make install-pip-package
 
       - name: Test Open3D
