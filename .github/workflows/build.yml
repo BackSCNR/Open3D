@@ -48,9 +48,6 @@ jobs:
           cd examples/python/visualization
           python headless_rendering.py
 
-      - name: Pull changes
-        run: git pull --allow-unrelated-histories
-
       # Commit&Push: https://github.com/orgs/community/discussions/26672#discussioncomment-3252794
       - name: Commit files
         id: commit
@@ -69,3 +66,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
