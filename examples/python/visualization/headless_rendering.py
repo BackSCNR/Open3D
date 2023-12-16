@@ -26,22 +26,23 @@
 
 import os
 import open3d as o3d
-import numpy as np
-import matplotlib.pyplot as plt
+
+# import numpy as np
+# import matplotlib.pyplot as plt
 
 
-def custom_draw_geometry_with_camera_trajectory(pcd, camera_trajectory_path,
-                                                render_option_path,
-                                                output_path):
+def custom_draw_geometry_with_camera_trajectory(
+    pcd, camera_trajectory_path, render_option_path, output_path
+):
     custom_draw_geometry_with_camera_trajectory.index = -1
-    custom_draw_geometry_with_camera_trajectory.trajectory =\
+    custom_draw_geometry_with_camera_trajectory.trajectory = (
         o3d.io.read_pinhole_camera_trajectory(camera_trajectory_path)
-    custom_draw_geometry_with_camera_trajectory.vis = o3d.visualization.Visualizer(
     )
-    image_path = os.path.join(output_path, 'image')
+    custom_draw_geometry_with_camera_trajectory.vis = o3d.visualization.Visualizer()
+    image_path = os.path.join(output_path, "image")
     if not os.path.exists(image_path):
         os.makedirs(image_path)
-    depth_path = os.path.join(output_path, 'depth')
+    depth_path = os.path.join(output_path, "depth")
     if not os.path.exists(depth_path):
         os.makedirs(depth_path)
 
@@ -62,12 +63,14 @@ def custom_draw_geometry_with_camera_trajectory(pcd, camera_trajectory_path,
             print("Capture image {:05d}".format(glb.index))
             # Capture and save image using Open3D.
             vis.capture_depth_image(
-                os.path.join(depth_path, "{:05d}.png".format(glb.index)), False)
+                os.path.join(depth_path, "{:05d}.png".format(glb.index)), False
+            )
             vis.capture_screen_image(
-                os.path.join(image_path, "{:05d}.png".format(glb.index)), False)
+                os.path.join(image_path, "{:05d}.png".format(glb.index)), False
+            )
 
             # Example to save image using matplotlib.
-            '''
+            """
             depth = vis.capture_depth_float_buffer()
             image = vis.capture_screen_float_buffer()
             plt.imsave(os.path.join(depth_path, "{:05d}.png".format(glb.index)),
@@ -76,12 +79,13 @@ def custom_draw_geometry_with_camera_trajectory(pcd, camera_trajectory_path,
             plt.imsave(os.path.join(image_path, "{:05d}.png".format(glb.index)),
                        np.asarray(image),
                        dpi=1)
-            '''
+            """
 
         glb.index = glb.index + 1
         if glb.index < len(glb.trajectory.parameters):
             ctr.convert_from_pinhole_camera_parameters(
-                glb.trajectory.parameters[glb.index])
+                glb.trajectory.parameters[glb.index]
+            )
         else:
             custom_draw_geometry_with_camera_trajectory.vis.destroy_window()
 
@@ -97,15 +101,22 @@ def custom_draw_geometry_with_camera_trajectory(pcd, camera_trajectory_path,
 
 
 if __name__ == "__main__":
-    if not o3d._build_config['ENABLE_HEADLESS_RENDERING']:
-        print("Headless rendering is not enabled. "
-              "Please rebuild Open3D with ENABLE_HEADLESS_RENDERING=ON")
+    if not o3d._build_config["ENABLE_HEADLESS_RENDERING"]:
+        print(
+            "Headless rendering is not enabled. "
+            "Please rebuild Open3D with ENABLE_HEADLESS_RENDERING=ON"
+        )
         exit(1)
 
     sample_data = o3d.data.DemoCustomVisualization()
     pcd = o3d.io.read_point_cloud(sample_data.point_cloud_path)
-    print("Customized visualization playing a camera trajectory. "
-          "Press ctrl+z to terminate.")
+    print(
+        "Customized visualization playing a camera trajectory. "
+        "Press ctrl+z to terminate."
+    )
     custom_draw_geometry_with_camera_trajectory(
-        pcd, sample_data.camera_trajectory_path, sample_data.render_option_path,
-        'HeadlessRenderingOutput')
+        pcd,
+        sample_data.camera_trajectory_path,
+        sample_data.render_option_path,
+        "HeadlessRenderingOutput",
+    )

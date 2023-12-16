@@ -39,8 +39,8 @@ jobs:
 
       - name: Install in Python environment
         run: |
+          pip install -r python/requirements_build.txt 
           cd build
-          pip install wheel
           make install-pip-package
 
       - name: Test Open3D
