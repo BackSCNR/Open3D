@@ -21,7 +21,7 @@ jobs:
       - name: Install build dependencies
         run: |
           sudo apt-get install libosmesa6-dev cmake
-          util/install_deps_ubuntu.sh
+          sudo util/install_deps_ubuntu.sh
           snap install cmake --classic
 
       - name: Make build folder and create C++ Makefiles
