@@ -28,7 +28,7 @@ jobs:
 
       - name: Make build folder and create C++ Makefiles
         run: |
-          mkdir build && cd build
+          rm -rf build && mkdir build && cd build
           cmake -DENABLE_HEADLESS_RENDERING=ON \
                 -DBUILD_GUI=OFF \
                 -DUSE_SYSTEM_GLEW=OFF \
