@@ -48,6 +48,9 @@ jobs:
           cd examples/python/visualization
           python headless_rendering.py
 
+      - name: Pull changes
+        run: git pull origin main
+
       # Commit&Push: https://github.com/orgs/community/discussions/26672#discussioncomment-3252794
       - name: Commit files
         id: commit
