@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_assimp"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_assimp.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_assimp-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_assimp"
+		],
+		"name" : "ext_assimp"
+	}
+}

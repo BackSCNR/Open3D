@@ -1,0 +1,13 @@
+# Target labels
+ ext_qhull
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_qhull
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_qhull.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_qhull-complete.rule
+/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-build.rule
+/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-configure.rule
+/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-download.rule
+/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-install.rule
+/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-patch.rule
+/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-update.rule

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_ippicv"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_ippicv.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_ippicv-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ippicv/src/ext_ippicv-stamp/ext_ippicv-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ippicv/src/ext_ippicv-stamp/ext_ippicv-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ippicv/src/ext_ippicv-stamp/ext_ippicv-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ippicv/src/ext_ippicv-stamp/ext_ippicv-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ippicv/src/ext_ippicv-stamp/ext_ippicv-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ippicv/src/ext_ippicv-stamp/ext_ippicv-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ippicv/src/ext_ippicv-stamp/ext_ippicv-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_ippicv"
+		],
+		"name" : "ext_ippicv"
+	}
+}

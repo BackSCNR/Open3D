@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_curl"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_curl.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_curl-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_curl"
+		],
+		"name" : "ext_curl"
+	}
+}

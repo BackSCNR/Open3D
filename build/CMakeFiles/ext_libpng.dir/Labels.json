@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_libpng"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_libpng.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_libpng-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_libpng"
+		],
+		"name" : "ext_libpng"
+	}
+}

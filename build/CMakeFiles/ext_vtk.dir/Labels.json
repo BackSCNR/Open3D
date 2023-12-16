@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_vtk"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_vtk.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_vtk-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/vtk/src/ext_vtk-stamp/ext_vtk-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/vtk/src/ext_vtk-stamp/ext_vtk-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/vtk/src/ext_vtk-stamp/ext_vtk-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/vtk/src/ext_vtk-stamp/ext_vtk-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/vtk/src/ext_vtk-stamp/ext_vtk-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/vtk/src/ext_vtk-stamp/ext_vtk-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/vtk/src/ext_vtk-stamp/ext_vtk-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_vtk"
+		],
+		"name" : "ext_vtk"
+	}
+}

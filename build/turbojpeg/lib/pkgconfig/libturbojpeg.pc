@@ -1,0 +1,10 @@
+prefix=/home/runner/work/Open3D/Open3D/build/turbojpeg
+exec_prefix=/home/runner/work/Open3D/Open3D/build/turbojpeg
+libdir=/home/runner/work/Open3D/Open3D/build/turbojpeg/lib
+includedir=/home/runner/work/Open3D/Open3D/build/turbojpeg/include
+
+Name: libturbojpeg
+Description: A SIMD-accelerated JPEG codec that provides the TurboJPEG API
+Version: 2.0.6
+Libs: -L${libdir} -lturbojpeg
+Cflags: -I${includedir}

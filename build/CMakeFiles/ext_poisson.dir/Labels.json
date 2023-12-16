@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_poisson"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_poisson.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_poisson-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson-stamp/ext_poisson-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson-stamp/ext_poisson-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson-stamp/ext_poisson-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson-stamp/ext_poisson-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson-stamp/ext_poisson-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson-stamp/ext_poisson-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/poisson/src/ext_poisson-stamp/ext_poisson-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_poisson"
+		],
+		"name" : "ext_poisson"
+	}
+}

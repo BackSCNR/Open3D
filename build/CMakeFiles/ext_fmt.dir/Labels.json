@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_fmt"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_fmt.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_fmt-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_fmt"
+		],
+		"name" : "ext_fmt"
+	}
+}

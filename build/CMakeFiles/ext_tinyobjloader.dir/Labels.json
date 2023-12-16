@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tinyobjloader"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tinyobjloader.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tinyobjloader-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_tinyobjloader"
+		],
+		"name" : "ext_tinyobjloader"
+	}
+}

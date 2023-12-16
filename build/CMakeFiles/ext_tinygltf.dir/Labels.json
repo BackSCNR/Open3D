@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tinygltf"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tinygltf.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tinygltf-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_tinygltf"
+		],
+		"name" : "ext_tinygltf"
+	}
+}

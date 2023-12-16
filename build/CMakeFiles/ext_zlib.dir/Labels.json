@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_zlib"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_zlib.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_zlib-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_zlib"
+		],
+		"name" : "ext_zlib"
+	}
+}

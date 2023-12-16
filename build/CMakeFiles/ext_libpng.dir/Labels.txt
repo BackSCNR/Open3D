@@ -1,0 +1,13 @@
+# Target labels
+ ext_libpng
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_libpng
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_libpng.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_libpng-complete.rule
+/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-build.rule
+/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-configure.rule
+/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-download.rule
+/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-install.rule
+/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-patch.rule
+/home/runner/work/Open3D/Open3D/build/libpng/src/ext_libpng-stamp/ext_libpng-update.rule

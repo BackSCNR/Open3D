@@ -1,0 +1,13 @@
+# Target labels
+ ext_turbojpeg
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_turbojpeg
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_turbojpeg.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_turbojpeg-complete.rule
+/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-build.rule
+/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-configure.rule
+/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-download.rule
+/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-install.rule
+/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-patch.rule
+/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-update.rule

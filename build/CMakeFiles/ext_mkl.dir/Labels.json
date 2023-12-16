@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_mkl"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_mkl.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_mkl-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/mkl/src/ext_mkl-stamp/ext_mkl-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/mkl/src/ext_mkl-stamp/ext_mkl-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/mkl/src/ext_mkl-stamp/ext_mkl-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/mkl/src/ext_mkl-stamp/ext_mkl-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/mkl/src/ext_mkl-stamp/ext_mkl-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/mkl/src/ext_mkl-stamp/ext_mkl-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/mkl/src/ext_mkl-stamp/ext_mkl-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_mkl"
+		],
+		"name" : "ext_mkl"
+	}
+}

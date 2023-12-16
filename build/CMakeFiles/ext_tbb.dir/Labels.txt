@@ -1,0 +1,13 @@
+# Target labels
+ ext_tbb
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tbb
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tbb.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tbb-complete.rule
+/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-build.rule
+/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-configure.rule
+/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-download.rule
+/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-install.rule
+/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-patch.rule
+/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-update.rule

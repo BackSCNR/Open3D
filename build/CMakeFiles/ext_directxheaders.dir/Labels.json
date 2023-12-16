@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_directxheaders"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_directxheaders.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_directxheaders-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_directxheaders"
+		],
+		"name" : "ext_directxheaders"
+	}
+}

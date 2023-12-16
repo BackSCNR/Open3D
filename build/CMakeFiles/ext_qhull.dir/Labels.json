@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_qhull"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_qhull.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_qhull-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/qhull/src/ext_qhull-stamp/ext_qhull-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_qhull"
+		],
+		"name" : "ext_qhull"
+	}
+}

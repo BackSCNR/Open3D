@@ -1,0 +1,13 @@
+# Target labels
+ ext_parallelstl
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_parallelstl
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_parallelstl.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_parallelstl-complete.rule
+/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-build.rule
+/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-configure.rule
+/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-download.rule
+/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-install.rule
+/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-patch.rule
+/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-update.rule

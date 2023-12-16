@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tbb"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tbb.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tbb-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/tbb/src/ext_tbb-stamp/ext_tbb-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_tbb"
+		],
+		"name" : "ext_tbb"
+	}
+}

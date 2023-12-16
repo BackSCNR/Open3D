@@ -1,0 +1,13 @@
+# Target labels
+ ext_jsoncpp
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_jsoncpp
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_jsoncpp.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_jsoncpp-complete.rule
+/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-build.rule
+/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-configure.rule
+/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-download.rule
+/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-install.rule
+/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-patch.rule
+/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-update.rule

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_uvatlas"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_uvatlas.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_uvatlas-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_uvatlas"
+		],
+		"name" : "ext_uvatlas"
+	}
+}

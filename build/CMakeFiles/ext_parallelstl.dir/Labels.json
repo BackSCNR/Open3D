@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_parallelstl"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_parallelstl.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_parallelstl-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/parallelstl/src/ext_parallelstl-stamp/ext_parallelstl-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_parallelstl"
+		],
+		"name" : "ext_parallelstl"
+	}
+}

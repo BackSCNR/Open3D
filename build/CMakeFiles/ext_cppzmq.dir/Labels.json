@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_cppzmq"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_cppzmq.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_cppzmq-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_cppzmq"
+		],
+		"name" : "ext_cppzmq"
+	}
+}

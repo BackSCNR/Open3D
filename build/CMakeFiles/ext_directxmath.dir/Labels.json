@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_directxmath"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_directxmath.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_directxmath-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_directxmath"
+		],
+		"name" : "ext_directxmath"
+	}
+}

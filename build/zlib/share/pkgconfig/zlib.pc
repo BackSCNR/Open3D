@@ -1,0 +1,13 @@
+prefix=/home/runner/work/Open3D/Open3D/build/zlib
+exec_prefix=/home/runner/work/Open3D/Open3D/build/zlib
+libdir=/home/runner/work/Open3D/Open3D/build/zlib/lib
+sharedlibdir=/home/runner/work/Open3D/Open3D/build/zlib/lib
+includedir=/home/runner/work/Open3D/Open3D/build/zlib/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

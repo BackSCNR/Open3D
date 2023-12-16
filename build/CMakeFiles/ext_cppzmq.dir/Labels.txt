@@ -1,0 +1,13 @@
+# Target labels
+ ext_cppzmq
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_cppzmq
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_cppzmq.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_cppzmq-complete.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-build.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-configure.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-download.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-install.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-patch.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_cppzmq-stamp/ext_cppzmq-update.rule

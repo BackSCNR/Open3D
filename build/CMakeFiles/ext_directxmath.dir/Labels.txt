@@ -1,0 +1,13 @@
+# Target labels
+ ext_directxmath
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_directxmath
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_directxmath.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_directxmath-complete.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-build.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-configure.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-download.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-install.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-patch.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxmath-stamp/ext_directxmath-update.rule

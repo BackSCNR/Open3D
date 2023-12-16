@@ -1,0 +1,11 @@
+prefix=/home/runner/work/Open3D/Open3D/build/fmt
+exec_prefix=/home/runner/work/Open3D/Open3D/build/fmt
+libdir=/home/runner/work/Open3D/Open3D/build/fmt/lib
+includedir=/home/runner/work/Open3D/Open3D/build/fmt/include
+
+Name: fmt
+Description: A modern formatting library
+Version: 6.0.0
+Libs: -L${libdir} -lfmt
+Cflags: -I${includedir}
+

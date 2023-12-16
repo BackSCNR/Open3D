@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_zeromq"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_zeromq.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_zeromq-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_zeromq"
+		],
+		"name" : "ext_zeromq"
+	}
+}

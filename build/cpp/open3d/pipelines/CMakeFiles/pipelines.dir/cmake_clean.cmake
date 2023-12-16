@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/pipelines.dir/color_map/ColorMapUtils.cpp.o"
+  "CMakeFiles/pipelines.dir/color_map/ColorMapUtils.cpp.o.d"
+  "CMakeFiles/pipelines.dir/color_map/ImageWarpingField.cpp.o"
+  "CMakeFiles/pipelines.dir/color_map/ImageWarpingField.cpp.o.d"
+  "CMakeFiles/pipelines.dir/color_map/NonRigidOptimizer.cpp.o"
+  "CMakeFiles/pipelines.dir/color_map/NonRigidOptimizer.cpp.o.d"
+  "CMakeFiles/pipelines.dir/color_map/RigidOptimizer.cpp.o"
+  "CMakeFiles/pipelines.dir/color_map/RigidOptimizer.cpp.o.d"
+  "CMakeFiles/pipelines.dir/integration/ScalableTSDFVolume.cpp.o"
+  "CMakeFiles/pipelines.dir/integration/ScalableTSDFVolume.cpp.o.d"
+  "CMakeFiles/pipelines.dir/integration/UniformTSDFVolume.cpp.o"
+  "CMakeFiles/pipelines.dir/integration/UniformTSDFVolume.cpp.o.d"
+  "CMakeFiles/pipelines.dir/odometry/Odometry.cpp.o"
+  "CMakeFiles/pipelines.dir/odometry/Odometry.cpp.o.d"
+  "CMakeFiles/pipelines.dir/odometry/RGBDOdometryJacobian.cpp.o"
+  "CMakeFiles/pipelines.dir/odometry/RGBDOdometryJacobian.cpp.o.d"
+  "CMakeFiles/pipelines.dir/registration/ColoredICP.cpp.o"
+  "CMakeFiles/pipelines.dir/registration/ColoredICP.cpp.o.d"
+  "CMakeFiles/pipelines.dir/registration/CorrespondenceChecker.cpp.o"
+  "CMakeFiles/pipelines.dir/registration/CorrespondenceChecker.cpp.o.d"
+  "CMakeFiles/pipelines.dir/registration/FastGlobalRegistration.cpp.o"
+  "CMakeFiles/pipelines.dir/registration/FastGlobalRegistration.cpp.o.d"
+  "CMakeFiles/pipelines.dir/registration/Feature.cpp.o"
+  "CMakeFiles/pipelines.dir/registration/Feature.cpp.o.d"
+  "CMakeFiles/pipelines.dir/registration/GeneralizedICP.cpp.o"
+  "CMakeFiles/pipelines.dir/registration/GeneralizedICP.cpp.o.d"
+  "CMakeFiles/pipelines.dir/registration/GlobalOptimization.cpp.o"
+  "CMakeFiles/pipelines.dir/registration/GlobalOptimization.cpp.o.d"
+  "CMakeFiles/pipelines.dir/registration/PoseGraph.cpp.o"
+  "CMakeFiles/pipelines.dir/registration/PoseGraph.cpp.o.d"
+  "CMakeFiles/pipelines.dir/registration/Registration.cpp.o"
+  "CMakeFiles/pipelines.dir/registration/Registration.cpp.o.d"
+  "CMakeFiles/pipelines.dir/registration/RobustKernel.cpp.o"
+  "CMakeFiles/pipelines.dir/registration/RobustKernel.cpp.o.d"
+  "CMakeFiles/pipelines.dir/registration/TransformationEstimation.cpp.o"
+  "CMakeFiles/pipelines.dir/registration/TransformationEstimation.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/pipelines.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

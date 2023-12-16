@@ -1,0 +1,9 @@
+libdir=/home/runner/work/Open3D/Open3D/build/assimp/lib
+includedir=/home/runner/work/Open3D/Open3D/build/assimp/include
+
+Name: Assimp
+Description: Import various well-known 3D model formats in an uniform manner.
+Version: 5.2.5
+Libs: -L${libdir} -lassimp
+Libs.private: -lstdc++ 
+Cflags: -I${includedir}

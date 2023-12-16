@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_nanoflann"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_nanoflann.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_nanoflann-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_nanoflann"
+		],
+		"name" : "ext_nanoflann"
+	}
+}
