@@ -133,13 +133,13 @@ bin/examples/DepthCapture: embree/lib/liblexers.a
 bin/examples/DepthCapture: embree/lib/libsys.a
 bin/examples/DepthCapture: embree/lib/libmath.a
 bin/examples/DepthCapture: embree/lib/libtasking.a
-bin/examples/DepthCapture: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/DepthCapture: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/DepthCapture: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/DepthCapture: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/DepthCapture: ippicv/lib/libippiw.a
 bin/examples/DepthCapture: ippicv/lib/libippicv.a
 bin/examples/DepthCapture: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/DepthCapture: lib/Release/libglfw3.a
-bin/examples/DepthCapture: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/DepthCapture: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/DepthCapture: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/DepthCapture: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/DepthCapture: fmt/lib/libfmt.a

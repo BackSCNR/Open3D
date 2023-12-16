@@ -133,13 +133,13 @@ bin/examples/RegistrationRANSAC: embree/lib/liblexers.a
 bin/examples/RegistrationRANSAC: embree/lib/libsys.a
 bin/examples/RegistrationRANSAC: embree/lib/libmath.a
 bin/examples/RegistrationRANSAC: embree/lib/libtasking.a
-bin/examples/RegistrationRANSAC: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/RegistrationRANSAC: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/RegistrationRANSAC: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/RegistrationRANSAC: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/RegistrationRANSAC: ippicv/lib/libippiw.a
 bin/examples/RegistrationRANSAC: ippicv/lib/libippicv.a
 bin/examples/RegistrationRANSAC: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/RegistrationRANSAC: lib/Release/libglfw3.a
-bin/examples/RegistrationRANSAC: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/RegistrationRANSAC: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/RegistrationRANSAC: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/RegistrationRANSAC: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/RegistrationRANSAC: fmt/lib/libfmt.a

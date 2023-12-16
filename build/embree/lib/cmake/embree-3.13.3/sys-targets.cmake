@@ -59,7 +59,7 @@ endif()
 add_library(sys STATIC IMPORTED)
 
 set_target_properties(sys PROPERTIES
-  INTERFACE_LINK_LIBRARIES "dl"
+  INTERFACE_LINK_LIBRARIES "-lpthread;dl"
 )
 
 if(CMAKE_VERSION VERSION_LESS 2.8.12)

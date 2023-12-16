@@ -135,7 +135,7 @@ if sys.platform != 'darwin':  # Remove check when off main thread GUI works
     })
 setup_args = dict(
     name="open3d",
-    version='0.16.1+0f8520d',
+    version='0.16.1+aba98bf',
     python_requires='>=3.6',
     include_package_data=True,
     install_requires=install_requires,

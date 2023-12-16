@@ -133,13 +133,13 @@ bin/examples/FileSystem: embree/lib/liblexers.a
 bin/examples/FileSystem: embree/lib/libsys.a
 bin/examples/FileSystem: embree/lib/libmath.a
 bin/examples/FileSystem: embree/lib/libtasking.a
-bin/examples/FileSystem: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/FileSystem: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/FileSystem: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/FileSystem: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/FileSystem: ippicv/lib/libippiw.a
 bin/examples/FileSystem: ippicv/lib/libippicv.a
 bin/examples/FileSystem: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/FileSystem: lib/Release/libglfw3.a
-bin/examples/FileSystem: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/FileSystem: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/FileSystem: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/FileSystem: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/FileSystem: fmt/lib/libfmt.a

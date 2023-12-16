@@ -93,8 +93,8 @@ OpenMP_EXTERNAL_OBJECTS =
 bin/examples/OpenMP: examples/cpp/CMakeFiles/OpenMP.dir/OpenMP.cpp.o
 bin/examples/OpenMP: examples/cpp/CMakeFiles/OpenMP.dir/build.make
 bin/examples/OpenMP: lib/Release/libOpen3D.a
-bin/examples/OpenMP: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/OpenMP: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/OpenMP: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/OpenMP: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/OpenMP: assimp/lib/libassimp.a
 bin/examples/OpenMP: turbojpeg/lib/libturbojpeg.a
 bin/examples/OpenMP: jsoncpp/lib/libjsoncpp.a
@@ -139,7 +139,7 @@ bin/examples/OpenMP: ippicv/lib/libippiw.a
 bin/examples/OpenMP: ippicv/lib/libippicv.a
 bin/examples/OpenMP: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/OpenMP: lib/Release/libglfw3.a
-bin/examples/OpenMP: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/OpenMP: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/OpenMP: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/OpenMP: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/OpenMP: fmt/lib/libfmt.a

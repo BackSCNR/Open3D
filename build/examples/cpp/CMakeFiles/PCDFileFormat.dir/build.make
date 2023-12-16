@@ -133,13 +133,13 @@ bin/examples/PCDFileFormat: embree/lib/liblexers.a
 bin/examples/PCDFileFormat: embree/lib/libsys.a
 bin/examples/PCDFileFormat: embree/lib/libmath.a
 bin/examples/PCDFileFormat: embree/lib/libtasking.a
-bin/examples/PCDFileFormat: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/PCDFileFormat: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/PCDFileFormat: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/PCDFileFormat: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/PCDFileFormat: ippicv/lib/libippiw.a
 bin/examples/PCDFileFormat: ippicv/lib/libippicv.a
 bin/examples/PCDFileFormat: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/PCDFileFormat: lib/Release/libglfw3.a
-bin/examples/PCDFileFormat: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/PCDFileFormat: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/PCDFileFormat: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/PCDFileFormat: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/PCDFileFormat: fmt/lib/libfmt.a

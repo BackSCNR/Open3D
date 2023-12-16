@@ -133,13 +133,13 @@ bin/examples/PointCloud: embree/lib/liblexers.a
 bin/examples/PointCloud: embree/lib/libsys.a
 bin/examples/PointCloud: embree/lib/libmath.a
 bin/examples/PointCloud: embree/lib/libtasking.a
-bin/examples/PointCloud: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/PointCloud: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/PointCloud: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/PointCloud: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/PointCloud: ippicv/lib/libippiw.a
 bin/examples/PointCloud: ippicv/lib/libippicv.a
 bin/examples/PointCloud: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/PointCloud: lib/Release/libglfw3.a
-bin/examples/PointCloud: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/PointCloud: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/PointCloud: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/PointCloud: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/PointCloud: fmt/lib/libfmt.a

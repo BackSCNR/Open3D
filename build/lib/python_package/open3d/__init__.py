@@ -101,7 +101,7 @@ if __DEVICE_API__ == 'cpu':
 import open3d.core
 import open3d.visualization
 
-__version__ = "0.16.1+0f8520d"
+__version__ = "0.16.1+aba98bf"
 
 if int(sys.version_info[0]) < 3:
     raise Exception("Open3D only supports Python 3.")

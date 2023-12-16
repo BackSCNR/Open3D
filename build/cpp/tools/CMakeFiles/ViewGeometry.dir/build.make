@@ -133,13 +133,13 @@ bin/ViewGeometry: embree/lib/liblexers.a
 bin/ViewGeometry: embree/lib/libsys.a
 bin/ViewGeometry: embree/lib/libmath.a
 bin/ViewGeometry: embree/lib/libtasking.a
-bin/ViewGeometry: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/ViewGeometry: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/ViewGeometry: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/ViewGeometry: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/ViewGeometry: ippicv/lib/libippiw.a
 bin/ViewGeometry: ippicv/lib/libippicv.a
 bin/ViewGeometry: lib/Release/libOpen3D_3rdparty_glew.a
 bin/ViewGeometry: lib/Release/libglfw3.a
-bin/ViewGeometry: /usr/lib/x86_64-linux-gnu/librt.a
+bin/ViewGeometry: /usr/lib/x86_64-linux-gnu/librt.so
 bin/ViewGeometry: /usr/lib/x86_64-linux-gnu/libm.so
 bin/ViewGeometry: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/ViewGeometry: fmt/lib/libfmt.a

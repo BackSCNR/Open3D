@@ -165,13 +165,13 @@ bin/ManuallyAlignPointCloud: embree/lib/liblexers.a
 bin/ManuallyAlignPointCloud: embree/lib/libsys.a
 bin/ManuallyAlignPointCloud: embree/lib/libmath.a
 bin/ManuallyAlignPointCloud: embree/lib/libtasking.a
-bin/ManuallyAlignPointCloud: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/ManuallyAlignPointCloud: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/ManuallyAlignPointCloud: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/ManuallyAlignPointCloud: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/ManuallyAlignPointCloud: ippicv/lib/libippiw.a
 bin/ManuallyAlignPointCloud: ippicv/lib/libippicv.a
 bin/ManuallyAlignPointCloud: lib/Release/libOpen3D_3rdparty_glew.a
 bin/ManuallyAlignPointCloud: lib/Release/libglfw3.a
-bin/ManuallyAlignPointCloud: /usr/lib/x86_64-linux-gnu/librt.a
+bin/ManuallyAlignPointCloud: /usr/lib/x86_64-linux-gnu/librt.so
 bin/ManuallyAlignPointCloud: /usr/lib/x86_64-linux-gnu/libm.so
 bin/ManuallyAlignPointCloud: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/ManuallyAlignPointCloud: fmt/lib/libfmt.a

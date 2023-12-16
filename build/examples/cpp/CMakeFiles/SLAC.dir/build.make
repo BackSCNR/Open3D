@@ -133,13 +133,13 @@ bin/examples/SLAC: embree/lib/liblexers.a
 bin/examples/SLAC: embree/lib/libsys.a
 bin/examples/SLAC: embree/lib/libmath.a
 bin/examples/SLAC: embree/lib/libtasking.a
-bin/examples/SLAC: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/SLAC: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/SLAC: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/SLAC: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/SLAC: ippicv/lib/libippiw.a
 bin/examples/SLAC: ippicv/lib/libippicv.a
 bin/examples/SLAC: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/SLAC: lib/Release/libglfw3.a
-bin/examples/SLAC: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/SLAC: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/SLAC: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/SLAC: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/SLAC: fmt/lib/libfmt.a

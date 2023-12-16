@@ -133,13 +133,13 @@ bin/ManuallyCropGeometry: embree/lib/liblexers.a
 bin/ManuallyCropGeometry: embree/lib/libsys.a
 bin/ManuallyCropGeometry: embree/lib/libmath.a
 bin/ManuallyCropGeometry: embree/lib/libtasking.a
-bin/ManuallyCropGeometry: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/ManuallyCropGeometry: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/ManuallyCropGeometry: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/ManuallyCropGeometry: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/ManuallyCropGeometry: ippicv/lib/libippiw.a
 bin/ManuallyCropGeometry: ippicv/lib/libippicv.a
 bin/ManuallyCropGeometry: lib/Release/libOpen3D_3rdparty_glew.a
 bin/ManuallyCropGeometry: lib/Release/libglfw3.a
-bin/ManuallyCropGeometry: /usr/lib/x86_64-linux-gnu/librt.a
+bin/ManuallyCropGeometry: /usr/lib/x86_64-linux-gnu/librt.so
 bin/ManuallyCropGeometry: /usr/lib/x86_64-linux-gnu/libm.so
 bin/ManuallyCropGeometry: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/ManuallyCropGeometry: fmt/lib/libfmt.a

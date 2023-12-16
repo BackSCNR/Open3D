@@ -133,13 +133,13 @@ bin/examples/EvaluatePCDMatch: embree/lib/liblexers.a
 bin/examples/EvaluatePCDMatch: embree/lib/libsys.a
 bin/examples/EvaluatePCDMatch: embree/lib/libmath.a
 bin/examples/EvaluatePCDMatch: embree/lib/libtasking.a
-bin/examples/EvaluatePCDMatch: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/EvaluatePCDMatch: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/EvaluatePCDMatch: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/EvaluatePCDMatch: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/EvaluatePCDMatch: ippicv/lib/libippiw.a
 bin/examples/EvaluatePCDMatch: ippicv/lib/libippicv.a
 bin/examples/EvaluatePCDMatch: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/EvaluatePCDMatch: lib/Release/libglfw3.a
-bin/examples/EvaluatePCDMatch: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/EvaluatePCDMatch: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/EvaluatePCDMatch: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/EvaluatePCDMatch: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/EvaluatePCDMatch: fmt/lib/libfmt.a

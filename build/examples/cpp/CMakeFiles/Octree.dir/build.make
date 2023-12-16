@@ -133,13 +133,13 @@ bin/examples/Octree: embree/lib/liblexers.a
 bin/examples/Octree: embree/lib/libsys.a
 bin/examples/Octree: embree/lib/libmath.a
 bin/examples/Octree: embree/lib/libtasking.a
-bin/examples/Octree: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/Octree: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/Octree: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/Octree: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/Octree: ippicv/lib/libippiw.a
 bin/examples/Octree: ippicv/lib/libippicv.a
 bin/examples/Octree: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/Octree: lib/Release/libglfw3.a
-bin/examples/Octree: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/Octree: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/Octree: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/Octree: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/Octree: fmt/lib/libfmt.a

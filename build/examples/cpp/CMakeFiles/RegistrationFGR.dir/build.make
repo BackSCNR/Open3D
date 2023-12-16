@@ -133,13 +133,13 @@ bin/examples/RegistrationFGR: embree/lib/liblexers.a
 bin/examples/RegistrationFGR: embree/lib/libsys.a
 bin/examples/RegistrationFGR: embree/lib/libmath.a
 bin/examples/RegistrationFGR: embree/lib/libtasking.a
-bin/examples/RegistrationFGR: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/RegistrationFGR: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/RegistrationFGR: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/RegistrationFGR: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/RegistrationFGR: ippicv/lib/libippiw.a
 bin/examples/RegistrationFGR: ippicv/lib/libippicv.a
 bin/examples/RegistrationFGR: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/RegistrationFGR: lib/Release/libglfw3.a
-bin/examples/RegistrationFGR: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/RegistrationFGR: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/RegistrationFGR: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/RegistrationFGR: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/RegistrationFGR: fmt/lib/libfmt.a

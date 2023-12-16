@@ -133,13 +133,13 @@ bin/examples/Visualizer: embree/lib/liblexers.a
 bin/examples/Visualizer: embree/lib/libsys.a
 bin/examples/Visualizer: embree/lib/libmath.a
 bin/examples/Visualizer: embree/lib/libtasking.a
-bin/examples/Visualizer: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/Visualizer: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/Visualizer: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/Visualizer: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/Visualizer: ippicv/lib/libippiw.a
 bin/examples/Visualizer: ippicv/lib/libippicv.a
 bin/examples/Visualizer: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/Visualizer: lib/Release/libglfw3.a
-bin/examples/Visualizer: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/Visualizer: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/Visualizer: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/Visualizer: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/Visualizer: fmt/lib/libfmt.a

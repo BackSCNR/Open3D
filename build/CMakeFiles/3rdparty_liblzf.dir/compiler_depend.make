@@ -4,7 +4,6 @@
 CMakeFiles/3rdparty_liblzf.dir/3rdparty/liblzf/liblzf/lzf_c.c.o: /home/runner/work/Open3D/Open3D/3rdparty/liblzf/liblzf/lzf_c.c \
   /home/runner/work/Open3D/Open3D/3rdparty/liblzf/liblzf/lzf.h \
   /home/runner/work/Open3D/Open3D/3rdparty/liblzf/liblzf/lzfP.h \
-  /usr/include/features-time64.h \
   /usr/include/features.h \
   /usr/include/limits.h \
   /usr/include/linux/limits.h \
@@ -17,8 +16,6 @@ CMakeFiles/3rdparty_liblzf.dir/3rdparty/liblzf/liblzf/lzf_c.c.o: /home/runner/wo
   /usr/include/x86_64-linux-gnu/bits/long-double.h \
   /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
   /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
   /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
   /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
@@ -34,10 +31,10 @@ CMakeFiles/3rdparty_liblzf.dir/3rdparty/liblzf/liblzf/lzf_c.c.o: /home/runner/wo
   /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs.h \
   /usr/include/x86_64-linux-gnu/sys/cdefs.h \
-  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
-  /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
-  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
-  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h
+  /usr/lib/gcc/x86_64-linux-gnu/9/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/9/include/syslimits.h
 
 CMakeFiles/3rdparty_liblzf.dir/3rdparty/liblzf/liblzf/lzf_d.c.o: /home/runner/work/Open3D/Open3D/3rdparty/liblzf/liblzf/lzf_d.c \
   /home/runner/work/Open3D/Open3D/3rdparty/liblzf/liblzf/lzf.h \
@@ -45,7 +42,6 @@ CMakeFiles/3rdparty_liblzf.dir/3rdparty/liblzf/liblzf/lzf_d.c.o: /home/runner/wo
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
   /usr/include/errno.h \
-  /usr/include/features-time64.h \
   /usr/include/features.h \
   /usr/include/limits.h \
   /usr/include/linux/errno.h \
@@ -61,8 +57,6 @@ CMakeFiles/3rdparty_liblzf.dir/3rdparty/liblzf/liblzf/lzf_d.c.o: /home/runner/wo
   /usr/include/x86_64-linux-gnu/bits/long-double.h \
   /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
   /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
   /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
   /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
@@ -78,25 +72,23 @@ CMakeFiles/3rdparty_liblzf.dir/3rdparty/liblzf/liblzf/lzf_d.c.o: /home/runner/wo
   /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs.h \
   /usr/include/x86_64-linux-gnu/sys/cdefs.h \
-  /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
-  /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
-  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
-  /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h
+  /usr/lib/gcc/x86_64-linux-gnu/9/include/limits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h \
+  /usr/lib/gcc/x86_64-linux-gnu/9/include/syslimits.h
 
 
 /usr/include/errno.h:
 
 /usr/include/asm-generic/errno.h:
 
-/usr/include/asm-generic/errno-base.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h:
-
 /usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
 
 /usr/include/x86_64-linux-gnu/bits/types.h:
 
 /usr/include/x86_64-linux-gnu/bits/long-double.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h:
 
 /usr/include/stdint.h:
 
@@ -110,25 +102,23 @@ CMakeFiles/3rdparty_liblzf.dir/3rdparty/liblzf/liblzf/lzf_d.c.o: /home/runner/wo
 
 /usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
-/usr/include/x86_64-linux-gnu/gnu/stubs.h:
-
-/usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
-
 /usr/include/string.h:
 
 /usr/include/x86_64-linux-gnu/bits/timesize.h:
 
-/usr/include/features-time64.h:
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h:
 
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
 /usr/include/limits.h:
 
-/usr/include/features.h:
-
 /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
+
+/home/runner/work/Open3D/Open3D/3rdparty/liblzf/liblzf/lzfP.h:
 
 /usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
 
@@ -138,19 +128,13 @@ CMakeFiles/3rdparty_liblzf.dir/3rdparty/liblzf/liblzf/lzf_d.c.o: /home/runner/wo
 
 /usr/include/linux/limits.h:
 
-/usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h:
-
-/home/runner/work/Open3D/Open3D/3rdparty/liblzf/liblzf/lzf_d.c:
-
-/usr/include/x86_64-linux-gnu/bits/time64.h:
-
-/home/runner/work/Open3D/Open3D/3rdparty/liblzf/liblzf/lzfP.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
-
 /usr/include/x86_64-linux-gnu/bits/string_fortified.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/features.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/9/include/syslimits.h:
 
 /usr/include/x86_64-linux-gnu/bits/errno.h:
 
@@ -168,6 +152,10 @@ CMakeFiles/3rdparty_liblzf.dir/3rdparty/liblzf/liblzf/lzf_d.c.o: /home/runner/wo
 
 /usr/include/x86_64-linux-gnu/bits/wordsize.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/9/include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
+/usr/include/x86_64-linux-gnu/bits/time64.h:
+
+/home/runner/work/Open3D/Open3D/3rdparty/liblzf/liblzf/lzf_d.c:
+
+/usr/include/asm-generic/errno-base.h:

@@ -133,13 +133,13 @@ bin/examples/Flann: embree/lib/liblexers.a
 bin/examples/Flann: embree/lib/libsys.a
 bin/examples/Flann: embree/lib/libmath.a
 bin/examples/Flann: embree/lib/libtasking.a
-bin/examples/Flann: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/Flann: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/Flann: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/Flann: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/Flann: ippicv/lib/libippiw.a
 bin/examples/Flann: ippicv/lib/libippicv.a
 bin/examples/Flann: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/Flann: lib/Release/libglfw3.a
-bin/examples/Flann: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/Flann: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/Flann: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/Flann: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/Flann: fmt/lib/libfmt.a

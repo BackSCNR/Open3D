@@ -133,13 +133,13 @@ bin/examples/ColorMapOptimization: embree/lib/liblexers.a
 bin/examples/ColorMapOptimization: embree/lib/libsys.a
 bin/examples/ColorMapOptimization: embree/lib/libmath.a
 bin/examples/ColorMapOptimization: embree/lib/libtasking.a
-bin/examples/ColorMapOptimization: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/ColorMapOptimization: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/ColorMapOptimization: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/ColorMapOptimization: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/ColorMapOptimization: ippicv/lib/libippiw.a
 bin/examples/ColorMapOptimization: ippicv/lib/libippicv.a
 bin/examples/ColorMapOptimization: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/ColorMapOptimization: lib/Release/libglfw3.a
-bin/examples/ColorMapOptimization: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/ColorMapOptimization: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/ColorMapOptimization: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/ColorMapOptimization: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/ColorMapOptimization: fmt/lib/libfmt.a

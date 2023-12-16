@@ -133,13 +133,13 @@ bin/examples/SLACIntegrate: embree/lib/liblexers.a
 bin/examples/SLACIntegrate: embree/lib/libsys.a
 bin/examples/SLACIntegrate: embree/lib/libmath.a
 bin/examples/SLACIntegrate: embree/lib/libtasking.a
-bin/examples/SLACIntegrate: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/SLACIntegrate: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/SLACIntegrate: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/SLACIntegrate: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/SLACIntegrate: ippicv/lib/libippiw.a
 bin/examples/SLACIntegrate: ippicv/lib/libippicv.a
 bin/examples/SLACIntegrate: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/SLACIntegrate: lib/Release/libglfw3.a
-bin/examples/SLACIntegrate: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/SLACIntegrate: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/SLACIntegrate: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/SLACIntegrate: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/SLACIntegrate: fmt/lib/libfmt.a

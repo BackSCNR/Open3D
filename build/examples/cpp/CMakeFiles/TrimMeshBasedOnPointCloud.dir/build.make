@@ -93,8 +93,8 @@ TrimMeshBasedOnPointCloud_EXTERNAL_OBJECTS =
 bin/examples/TrimMeshBasedOnPointCloud: examples/cpp/CMakeFiles/TrimMeshBasedOnPointCloud.dir/TrimMeshBasedOnPointCloud.cpp.o
 bin/examples/TrimMeshBasedOnPointCloud: examples/cpp/CMakeFiles/TrimMeshBasedOnPointCloud.dir/build.make
 bin/examples/TrimMeshBasedOnPointCloud: lib/Release/libOpen3D.a
-bin/examples/TrimMeshBasedOnPointCloud: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/TrimMeshBasedOnPointCloud: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/TrimMeshBasedOnPointCloud: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/TrimMeshBasedOnPointCloud: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/TrimMeshBasedOnPointCloud: assimp/lib/libassimp.a
 bin/examples/TrimMeshBasedOnPointCloud: turbojpeg/lib/libturbojpeg.a
 bin/examples/TrimMeshBasedOnPointCloud: jsoncpp/lib/libjsoncpp.a
@@ -139,7 +139,7 @@ bin/examples/TrimMeshBasedOnPointCloud: ippicv/lib/libippiw.a
 bin/examples/TrimMeshBasedOnPointCloud: ippicv/lib/libippicv.a
 bin/examples/TrimMeshBasedOnPointCloud: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/TrimMeshBasedOnPointCloud: lib/Release/libglfw3.a
-bin/examples/TrimMeshBasedOnPointCloud: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/TrimMeshBasedOnPointCloud: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/TrimMeshBasedOnPointCloud: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/TrimMeshBasedOnPointCloud: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/TrimMeshBasedOnPointCloud: fmt/lib/libfmt.a

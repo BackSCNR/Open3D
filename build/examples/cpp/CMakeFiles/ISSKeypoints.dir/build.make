@@ -133,13 +133,13 @@ bin/examples/ISSKeypoints: embree/lib/liblexers.a
 bin/examples/ISSKeypoints: embree/lib/libsys.a
 bin/examples/ISSKeypoints: embree/lib/libmath.a
 bin/examples/ISSKeypoints: embree/lib/libtasking.a
-bin/examples/ISSKeypoints: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/ISSKeypoints: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/ISSKeypoints: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/ISSKeypoints: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/ISSKeypoints: ippicv/lib/libippiw.a
 bin/examples/ISSKeypoints: ippicv/lib/libippicv.a
 bin/examples/ISSKeypoints: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/ISSKeypoints: lib/Release/libglfw3.a
-bin/examples/ISSKeypoints: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/ISSKeypoints: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/ISSKeypoints: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/ISSKeypoints: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/ISSKeypoints: fmt/lib/libfmt.a

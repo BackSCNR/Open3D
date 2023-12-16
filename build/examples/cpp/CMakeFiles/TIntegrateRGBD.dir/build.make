@@ -133,13 +133,13 @@ bin/examples/TIntegrateRGBD: embree/lib/liblexers.a
 bin/examples/TIntegrateRGBD: embree/lib/libsys.a
 bin/examples/TIntegrateRGBD: embree/lib/libmath.a
 bin/examples/TIntegrateRGBD: embree/lib/libtasking.a
-bin/examples/TIntegrateRGBD: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/TIntegrateRGBD: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/TIntegrateRGBD: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/TIntegrateRGBD: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/TIntegrateRGBD: ippicv/lib/libippiw.a
 bin/examples/TIntegrateRGBD: ippicv/lib/libippicv.a
 bin/examples/TIntegrateRGBD: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/TIntegrateRGBD: lib/Release/libglfw3.a
-bin/examples/TIntegrateRGBD: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/TIntegrateRGBD: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/TIntegrateRGBD: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/TIntegrateRGBD: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/TIntegrateRGBD: fmt/lib/libfmt.a

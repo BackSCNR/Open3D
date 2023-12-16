@@ -133,13 +133,13 @@ bin/ConvertPointCloud: embree/lib/liblexers.a
 bin/ConvertPointCloud: embree/lib/libsys.a
 bin/ConvertPointCloud: embree/lib/libmath.a
 bin/ConvertPointCloud: embree/lib/libtasking.a
-bin/ConvertPointCloud: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/ConvertPointCloud: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/ConvertPointCloud: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/ConvertPointCloud: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/ConvertPointCloud: ippicv/lib/libippiw.a
 bin/ConvertPointCloud: ippicv/lib/libippicv.a
 bin/ConvertPointCloud: lib/Release/libOpen3D_3rdparty_glew.a
 bin/ConvertPointCloud: lib/Release/libglfw3.a
-bin/ConvertPointCloud: /usr/lib/x86_64-linux-gnu/librt.a
+bin/ConvertPointCloud: /usr/lib/x86_64-linux-gnu/librt.so
 bin/ConvertPointCloud: /usr/lib/x86_64-linux-gnu/libm.so
 bin/ConvertPointCloud: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/ConvertPointCloud: fmt/lib/libfmt.a

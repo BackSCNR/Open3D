@@ -134,12 +134,12 @@ OfflineReconstruction/OfflineReconstruction: embree/lib/liblexers.a
 OfflineReconstruction/OfflineReconstruction: embree/lib/libsys.a
 OfflineReconstruction/OfflineReconstruction: embree/lib/libmath.a
 OfflineReconstruction/OfflineReconstruction: embree/lib/libtasking.a
-OfflineReconstruction/OfflineReconstruction: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-OfflineReconstruction/OfflineReconstruction: /usr/lib/x86_64-linux-gnu/libpthread.a
+OfflineReconstruction/OfflineReconstruction: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+OfflineReconstruction/OfflineReconstruction: /usr/lib/x86_64-linux-gnu/libpthread.so
 OfflineReconstruction/OfflineReconstruction: ippicv/lib/libippiw.a
 OfflineReconstruction/OfflineReconstruction: ippicv/lib/libippicv.a
 OfflineReconstruction/OfflineReconstruction: lib/Release/libglfw3.a
-OfflineReconstruction/OfflineReconstruction: /usr/lib/x86_64-linux-gnu/librt.a
+OfflineReconstruction/OfflineReconstruction: /usr/lib/x86_64-linux-gnu/librt.so
 OfflineReconstruction/OfflineReconstruction: /usr/lib/x86_64-linux-gnu/libm.so
 OfflineReconstruction/OfflineReconstruction: /usr/lib/x86_64-linux-gnu/libX11.so
 OfflineReconstruction/OfflineReconstruction: fmt/lib/libfmt.a

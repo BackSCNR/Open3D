@@ -1413,13 +1413,13 @@ lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: embree/lib/liblexe
 lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: embree/lib/libsys.a
 lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: embree/lib/libmath.a
 lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: embree/lib/libtasking.a
-lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: /usr/lib/x86_64-linux-gnu/libpthread.a
+lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: /usr/lib/x86_64-linux-gnu/libpthread.so
 lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: ippicv/lib/libippiw.a
 lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: ippicv/lib/libippicv.a
 lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: lib/Release/libOpen3D_3rdparty_glew.a
 lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: lib/Release/libglfw3.a
-lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: /usr/lib/x86_64-linux-gnu/librt.a
+lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: /usr/lib/x86_64-linux-gnu/librt.so
 lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: /usr/lib/x86_64-linux-gnu/libm.so
 lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: /usr/lib/x86_64-linux-gnu/libX11.so
 lib/Release/Python/cpu/pybind.cpython-38-x86_64-linux-gnu.so: fmt/lib/libfmt.a

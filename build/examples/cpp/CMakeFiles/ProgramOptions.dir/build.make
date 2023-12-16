@@ -133,13 +133,13 @@ bin/examples/ProgramOptions: embree/lib/liblexers.a
 bin/examples/ProgramOptions: embree/lib/libsys.a
 bin/examples/ProgramOptions: embree/lib/libmath.a
 bin/examples/ProgramOptions: embree/lib/libtasking.a
-bin/examples/ProgramOptions: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/ProgramOptions: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/ProgramOptions: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/ProgramOptions: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/ProgramOptions: ippicv/lib/libippiw.a
 bin/examples/ProgramOptions: ippicv/lib/libippicv.a
 bin/examples/ProgramOptions: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/ProgramOptions: lib/Release/libglfw3.a
-bin/examples/ProgramOptions: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/ProgramOptions: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/ProgramOptions: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/ProgramOptions: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/ProgramOptions: fmt/lib/libfmt.a

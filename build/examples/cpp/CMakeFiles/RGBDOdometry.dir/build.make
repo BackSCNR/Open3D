@@ -133,13 +133,13 @@ bin/examples/RGBDOdometry: embree/lib/liblexers.a
 bin/examples/RGBDOdometry: embree/lib/libsys.a
 bin/examples/RGBDOdometry: embree/lib/libmath.a
 bin/examples/RGBDOdometry: embree/lib/libtasking.a
-bin/examples/RGBDOdometry: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/RGBDOdometry: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/RGBDOdometry: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/RGBDOdometry: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/RGBDOdometry: ippicv/lib/libippiw.a
 bin/examples/RGBDOdometry: ippicv/lib/libippicv.a
 bin/examples/RGBDOdometry: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/RGBDOdometry: lib/Release/libglfw3.a
-bin/examples/RGBDOdometry: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/RGBDOdometry: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/RGBDOdometry: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/RGBDOdometry: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/RGBDOdometry: fmt/lib/libfmt.a

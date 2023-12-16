@@ -133,13 +133,13 @@ bin/examples/GeneralizedICP: embree/lib/liblexers.a
 bin/examples/GeneralizedICP: embree/lib/libsys.a
 bin/examples/GeneralizedICP: embree/lib/libmath.a
 bin/examples/GeneralizedICP: embree/lib/libtasking.a
-bin/examples/GeneralizedICP: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/GeneralizedICP: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/GeneralizedICP: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/GeneralizedICP: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/GeneralizedICP: ippicv/lib/libippiw.a
 bin/examples/GeneralizedICP: ippicv/lib/libippicv.a
 bin/examples/GeneralizedICP: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/GeneralizedICP: lib/Release/libglfw3.a
-bin/examples/GeneralizedICP: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/GeneralizedICP: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/GeneralizedICP: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/GeneralizedICP: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/GeneralizedICP: fmt/lib/libfmt.a

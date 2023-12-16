@@ -133,13 +133,13 @@ bin/MergeMesh: embree/lib/liblexers.a
 bin/MergeMesh: embree/lib/libsys.a
 bin/MergeMesh: embree/lib/libmath.a
 bin/MergeMesh: embree/lib/libtasking.a
-bin/MergeMesh: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/MergeMesh: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/MergeMesh: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/MergeMesh: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/MergeMesh: ippicv/lib/libippiw.a
 bin/MergeMesh: ippicv/lib/libippicv.a
 bin/MergeMesh: lib/Release/libOpen3D_3rdparty_glew.a
 bin/MergeMesh: lib/Release/libglfw3.a
-bin/MergeMesh: /usr/lib/x86_64-linux-gnu/librt.a
+bin/MergeMesh: /usr/lib/x86_64-linux-gnu/librt.so
 bin/MergeMesh: /usr/lib/x86_64-linux-gnu/libm.so
 bin/MergeMesh: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/MergeMesh: fmt/lib/libfmt.a

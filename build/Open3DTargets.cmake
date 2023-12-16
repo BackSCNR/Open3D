@@ -108,7 +108,7 @@ add_library(Open3D::3rdparty_glfw INTERFACE IMPORTED)
 
 set_target_properties(Open3D::3rdparty_glfw PROPERTIES
   INTERFACE_INCLUDE_DIRECTORIES "/home/runner/work/Open3D/Open3D/3rdparty/glfw/include"
-  INTERFACE_LINK_LIBRARIES "\$<\$<AND:0,0>:-load_hidden >/home/runner/work/Open3D/Open3D/build/lib/\$<CONFIG>/libglfw3.a;Open3D::3rdparty_threads;/usr/lib/x86_64-linux-gnu/librt.a;/usr/lib/x86_64-linux-gnu/libm.so;dl;Open3D::3rdparty_x11"
+  INTERFACE_LINK_LIBRARIES "\$<\$<AND:0,0>:-load_hidden >/home/runner/work/Open3D/Open3D/build/lib/\$<CONFIG>/libglfw3.a;Open3D::3rdparty_threads;/usr/lib/x86_64-linux-gnu/librt.so;/usr/lib/x86_64-linux-gnu/libm.so;dl;Open3D::3rdparty_x11"
 )
 
 # Create imported target Open3D::3rdparty_jpeg

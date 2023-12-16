@@ -133,13 +133,13 @@ bin/examples/TriangleMesh: embree/lib/liblexers.a
 bin/examples/TriangleMesh: embree/lib/libsys.a
 bin/examples/TriangleMesh: embree/lib/libmath.a
 bin/examples/TriangleMesh: embree/lib/libtasking.a
-bin/examples/TriangleMesh: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/TriangleMesh: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/TriangleMesh: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/TriangleMesh: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/TriangleMesh: ippicv/lib/libippiw.a
 bin/examples/TriangleMesh: ippicv/lib/libippicv.a
 bin/examples/TriangleMesh: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/TriangleMesh: lib/Release/libglfw3.a
-bin/examples/TriangleMesh: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/TriangleMesh: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/TriangleMesh: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/TriangleMesh: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/TriangleMesh: fmt/lib/libfmt.a

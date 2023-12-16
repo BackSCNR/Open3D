@@ -133,13 +133,13 @@ bin/examples/TOdometryRGBD: embree/lib/liblexers.a
 bin/examples/TOdometryRGBD: embree/lib/libsys.a
 bin/examples/TOdometryRGBD: embree/lib/libmath.a
 bin/examples/TOdometryRGBD: embree/lib/libtasking.a
-bin/examples/TOdometryRGBD: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/TOdometryRGBD: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/TOdometryRGBD: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/TOdometryRGBD: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/TOdometryRGBD: ippicv/lib/libippiw.a
 bin/examples/TOdometryRGBD: ippicv/lib/libippicv.a
 bin/examples/TOdometryRGBD: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/TOdometryRGBD: lib/Release/libglfw3.a
-bin/examples/TOdometryRGBD: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/TOdometryRGBD: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/TOdometryRGBD: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/TOdometryRGBD: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/TOdometryRGBD: fmt/lib/libfmt.a

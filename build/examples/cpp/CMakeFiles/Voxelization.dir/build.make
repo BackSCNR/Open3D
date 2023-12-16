@@ -133,13 +133,13 @@ bin/examples/Voxelization: embree/lib/liblexers.a
 bin/examples/Voxelization: embree/lib/libsys.a
 bin/examples/Voxelization: embree/lib/libmath.a
 bin/examples/Voxelization: embree/lib/libtasking.a
-bin/examples/Voxelization: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/Voxelization: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/Voxelization: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/Voxelization: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/Voxelization: ippicv/lib/libippiw.a
 bin/examples/Voxelization: ippicv/lib/libippicv.a
 bin/examples/Voxelization: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/Voxelization: lib/Release/libglfw3.a
-bin/examples/Voxelization: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/Voxelization: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/Voxelization: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/Voxelization: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/Voxelization: fmt/lib/libfmt.a

@@ -6,7 +6,6 @@ CMakeFiles/3rdparty_glew.dir/3rdparty/glew/src/glew.c.o: /home/runner/work/Open3
   /usr/include/GL/gl.h \
   /usr/include/GL/glu.h \
   /usr/include/GL/osmesa.h \
-  /usr/include/features-time64.h \
   /usr/include/features.h \
   /usr/include/stdc-predef.h \
   /usr/include/stdint.h \
@@ -23,19 +22,19 @@ CMakeFiles/3rdparty_glew.dir/3rdparty/glew/src/glew.c.o: /home/runner/work/Open3
   /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs.h \
   /usr/include/x86_64-linux-gnu/sys/cdefs.h \
-  /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
-  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h
+  /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h
 
 
-/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
 /usr/include/x86_64-linux-gnu/bits/wordsize.h:
 
-/usr/include/features-time64.h:
+/home/runner/work/Open3D/Open3D/3rdparty/glew/src/glew.c:
 
-/usr/include/x86_64-linux-gnu/bits/timesize.h:
+/usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
@@ -48,10 +47,6 @@ CMakeFiles/3rdparty_glew.dir/3rdparty/glew/src/glew.c.o: /home/runner/work/Open3
 /usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
 /usr/include/GL/gl.h:
-
-/home/runner/work/Open3D/Open3D/3rdparty/glew/src/glew.c:
-
-/usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
@@ -67,10 +62,12 @@ CMakeFiles/3rdparty_glew.dir/3rdparty/glew/src/glew.c.o: /home/runner/work/Open3
 
 /usr/include/stdint.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
-
 /usr/include/x86_64-linux-gnu/bits/long-double.h:
 
 /usr/include/x86_64-linux-gnu/bits/time64.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h:
+
+/usr/include/x86_64-linux-gnu/bits/timesize.h:
 
 /usr/include/x86_64-linux-gnu/bits/types.h:

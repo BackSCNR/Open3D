@@ -95,7 +95,7 @@ bin/GLInfo: cpp/tools/CMakeFiles/GLInfo.dir/build.make
 bin/GLInfo: lib/Release/libOpen3D.a
 bin/GLInfo: /usr/lib/x86_64-linux-gnu/libOSMesa.so
 bin/GLInfo: lib/Release/libglfw3.a
-bin/GLInfo: /usr/lib/x86_64-linux-gnu/librt.a
+bin/GLInfo: /usr/lib/x86_64-linux-gnu/librt.so
 bin/GLInfo: /usr/lib/x86_64-linux-gnu/libm.so
 bin/GLInfo: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/GLInfo: assimp/lib/libassimp.a
@@ -138,8 +138,8 @@ bin/GLInfo: embree/lib/liblexers.a
 bin/GLInfo: embree/lib/libsys.a
 bin/GLInfo: embree/lib/libmath.a
 bin/GLInfo: embree/lib/libtasking.a
-bin/GLInfo: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/GLInfo: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/GLInfo: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/GLInfo: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/GLInfo: ippicv/lib/libippiw.a
 bin/GLInfo: ippicv/lib/libippicv.a
 bin/GLInfo: lib/Release/libOpen3D_3rdparty_glew.a

@@ -133,13 +133,13 @@ bin/examples/ViewPCDMatch: embree/lib/liblexers.a
 bin/examples/ViewPCDMatch: embree/lib/libsys.a
 bin/examples/ViewPCDMatch: embree/lib/libmath.a
 bin/examples/ViewPCDMatch: embree/lib/libtasking.a
-bin/examples/ViewPCDMatch: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/ViewPCDMatch: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/ViewPCDMatch: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/ViewPCDMatch: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/ViewPCDMatch: ippicv/lib/libippiw.a
 bin/examples/ViewPCDMatch: ippicv/lib/libippicv.a
 bin/examples/ViewPCDMatch: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/ViewPCDMatch: lib/Release/libglfw3.a
-bin/examples/ViewPCDMatch: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/ViewPCDMatch: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/ViewPCDMatch: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/ViewPCDMatch: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/ViewPCDMatch: fmt/lib/libfmt.a

@@ -133,13 +133,13 @@ bin/examples/PoseGraph: embree/lib/liblexers.a
 bin/examples/PoseGraph: embree/lib/libsys.a
 bin/examples/PoseGraph: embree/lib/libmath.a
 bin/examples/PoseGraph: embree/lib/libtasking.a
-bin/examples/PoseGraph: /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so
-bin/examples/PoseGraph: /usr/lib/x86_64-linux-gnu/libpthread.a
+bin/examples/PoseGraph: /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so
+bin/examples/PoseGraph: /usr/lib/x86_64-linux-gnu/libpthread.so
 bin/examples/PoseGraph: ippicv/lib/libippiw.a
 bin/examples/PoseGraph: ippicv/lib/libippicv.a
 bin/examples/PoseGraph: lib/Release/libOpen3D_3rdparty_glew.a
 bin/examples/PoseGraph: lib/Release/libglfw3.a
-bin/examples/PoseGraph: /usr/lib/x86_64-linux-gnu/librt.a
+bin/examples/PoseGraph: /usr/lib/x86_64-linux-gnu/librt.so
 bin/examples/PoseGraph: /usr/lib/x86_64-linux-gnu/libm.so
 bin/examples/PoseGraph: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/examples/PoseGraph: fmt/lib/libfmt.a
