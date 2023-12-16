@@ -1,0 +1,69 @@
+name: Build Open3D
+
+on:
+  push:
+    branches: []
+
+jobs:
+  build:
+    name: Build Open3D
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.8
+
+      - name: Install build dependencies
+        run: |
+          apt-get install libosmesa6-dev
+          util/install_deps_ubuntu.sh
+          snap install cmake --classic
+          apt-get install cmake
+
+      - name: Make build folder and create C++ Makefiles
+        run: |
+          mkdir build && cd build
+          cmake -DENABLE_HEADLESS_RENDERING=ON \
+                -DBUILD_GUI=OFF \
+                -DUSE_SYSTEM_GLEW=OFF \
+                -DUSE_SYSTEM_GLFW=OFF \
+                ..
+
+      - name: Build
+        run: |
+          cd build
+          make -j$(nproc)
+
+      - name: Install in Python environment
+        run: |
+          cd build
+          make install-pip-package
+
+      - name: Test Open3D
+        run: |
+          cd examples/python/visualization
+          python headless_rendering.py
+
+      # Commit&Push: https://github.com/orgs/community/discussions/26672#discussioncomment-3252794
+      - name: Commit files
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git add --all
+          if [-z "$(git status --porcelain)"]; then
+              echo "::set-output name=push::false"
+          else
+              git commit -m "Add langchain_db.pkl" -a
+              echo "::set-output name=push::true"
+          fi
+      - name: Push changes
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
