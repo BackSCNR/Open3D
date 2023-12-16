@@ -1,4 +1,4 @@
-*.whl
+# *.whl
 
 # Docker build artifacts (wheel, dev package, ccache)
 docker/*.tar.gz
@@ -21,9 +21,9 @@ CMakeSettings.json
 
 # Temp directories
 3rdparty_downloads
-build*/
-cmake-build-debug/
-cmake-build-release/
+# build*/
+# cmake-build-debug/
+# cmake-build-release/
 util/pip_package/dist/
 doxygen/
 node_modules/
