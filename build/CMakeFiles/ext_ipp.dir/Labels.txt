@@ -1,0 +1,13 @@
+# Target labels
+ ext_ipp
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_ipp
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_ipp.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_ipp-complete.rule
+/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-build.rule
+/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-configure.rule
+/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-download.rule
+/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-install.rule
+/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-patch.rule
+/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-update.rule

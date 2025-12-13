@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_msgpack-c"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_msgpack-c.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_msgpack-c-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_msgpack-c"
+		],
+		"name" : "ext_msgpack-c"
+	}
+}

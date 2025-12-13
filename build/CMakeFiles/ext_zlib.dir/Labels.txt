@@ -1,0 +1,13 @@
+# Target labels
+ ext_zlib
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_zlib
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_zlib.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_zlib-complete.rule
+/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-build.rule
+/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-configure.rule
+/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-download.rule
+/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-install.rule
+/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-patch.rule
+/home/runner/work/Open3D/Open3D/build/zlib/src/ext_zlib-stamp/ext_zlib-update.rule

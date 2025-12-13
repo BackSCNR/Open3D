@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_glfw"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_glfw.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_glfw-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_glfw"
+		],
+		"name" : "ext_glfw"
+	}
+}

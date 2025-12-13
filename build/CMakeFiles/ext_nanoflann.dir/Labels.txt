@@ -1,0 +1,13 @@
+# Target labels
+ ext_nanoflann
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_nanoflann
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_nanoflann.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_nanoflann-complete.rule
+/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-build.rule
+/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-configure.rule
+/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-download.rule
+/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-install.rule
+/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-patch.rule
+/home/runner/work/Open3D/Open3D/build/nanoflann/src/ext_nanoflann-stamp/ext_nanoflann-update.rule

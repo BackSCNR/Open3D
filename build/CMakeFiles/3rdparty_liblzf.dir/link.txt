@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/Release/libOpen3D_3rdparty_liblzf.a CMakeFiles/3rdparty_liblzf.dir/3rdparty/liblzf/liblzf/lzf_c.c.o CMakeFiles/3rdparty_liblzf.dir/3rdparty/liblzf/liblzf/lzf_d.c.o
+/usr/bin/ranlib lib/Release/libOpen3D_3rdparty_liblzf.a

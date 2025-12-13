@@ -1,0 +1,13 @@
+# Target labels
+ ext_glfw
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_glfw
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_glfw.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_glfw-complete.rule
+/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-build.rule
+/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-configure.rule
+/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-download.rule
+/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-install.rule
+/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-patch.rule
+/home/runner/work/Open3D/Open3D/build/glfw/src/ext_glfw-stamp/ext_glfw-update.rule

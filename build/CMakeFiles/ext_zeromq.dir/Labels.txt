@@ -1,0 +1,13 @@
+# Target labels
+ ext_zeromq
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_zeromq
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_zeromq.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_zeromq-complete.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-build.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-configure.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-download.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-install.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-patch.rule
+/home/runner/work/Open3D/Open3D/build/zeromq/src/ext_zeromq-stamp/ext_zeromq-update.rule

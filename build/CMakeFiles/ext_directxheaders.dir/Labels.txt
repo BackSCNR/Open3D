@@ -1,0 +1,13 @@
+# Target labels
+ ext_directxheaders
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_directxheaders
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_directxheaders.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_directxheaders-complete.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-build.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-configure.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-download.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-install.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-patch.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_directxheaders-stamp/ext_directxheaders-update.rule

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_turbojpeg"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_turbojpeg.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_turbojpeg-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_turbojpeg"
+		],
+		"name" : "ext_turbojpeg"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ ext_msgpack-c
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_msgpack-c
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_msgpack-c.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_msgpack-c-complete.rule
+/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-build.rule
+/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-configure.rule
+/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-download.rule
+/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-install.rule
+/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-patch.rule
+/home/runner/work/Open3D/Open3D/build/msgpack-c/src/ext_msgpack-c-stamp/ext_msgpack-c-update.rule

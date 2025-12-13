@@ -1,0 +1,12 @@
+prefix=/home/runner/work/Open3D/Open3D/build/libpng
+exec_prefix=/home/runner/work/Open3D/Open3D/build/libpng
+libdir=/home/runner/work/Open3D/Open3D/build/libpng/lib
+includedir=/home/runner/work/Open3D/Open3D/build/libpng/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.37
+Requires: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz -lm
+Cflags: -I${includedir}

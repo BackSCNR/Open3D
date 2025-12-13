@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_embree"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_embree.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_embree-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_embree"
+		],
+		"name" : "ext_embree"
+	}
+}

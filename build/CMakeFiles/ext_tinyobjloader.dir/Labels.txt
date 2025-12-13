@@ -1,0 +1,13 @@
+# Target labels
+ ext_tinyobjloader
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tinyobjloader
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tinyobjloader.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tinyobjloader-complete.rule
+/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-build.rule
+/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-configure.rule
+/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-download.rule
+/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-install.rule
+/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-patch.rule
+/home/runner/work/Open3D/Open3D/build/tinyobjloader/src/ext_tinyobjloader-stamp/ext_tinyobjloader-update.rule

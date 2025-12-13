@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/Release/libOpen3D_3rdparty_glew.a CMakeFiles/3rdparty_glew.dir/3rdparty/glew/src/glew.c.o
+/usr/bin/ranlib lib/Release/libOpen3D_3rdparty_glew.a

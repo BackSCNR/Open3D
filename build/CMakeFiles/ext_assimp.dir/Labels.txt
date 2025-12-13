@@ -1,0 +1,13 @@
+# Target labels
+ ext_assimp
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_assimp
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_assimp.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_assimp-complete.rule
+/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-build.rule
+/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-configure.rule
+/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-download.rule
+/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-install.rule
+/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-patch.rule
+/home/runner/work/Open3D/Open3D/build/assimp/src/ext_assimp-stamp/ext_assimp-update.rule

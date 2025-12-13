@@ -1,0 +1,13 @@
+# Target labels
+ ext_boringssl
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_boringssl
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_boringssl.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_boringssl-complete.rule
+/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-build.rule
+/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-configure.rule
+/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-download.rule
+/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-install.rule
+/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-patch.rule
+/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-update.rule

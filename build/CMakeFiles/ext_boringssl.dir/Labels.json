@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_boringssl"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_boringssl.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_boringssl-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/boringssl/src/ext_boringssl-stamp/ext_boringssl-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_boringssl"
+		],
+		"name" : "ext_boringssl"
+	}
+}

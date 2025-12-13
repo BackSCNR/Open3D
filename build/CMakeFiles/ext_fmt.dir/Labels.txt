@@ -1,0 +1,13 @@
+# Target labels
+ ext_fmt
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_fmt
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_fmt.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_fmt-complete.rule
+/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-build.rule
+/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-configure.rule
+/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-download.rule
+/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-install.rule
+/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-patch.rule
+/home/runner/work/Open3D/Open3D/build/fmt/src/ext_fmt-stamp/ext_fmt-update.rule

@@ -1,0 +1,13 @@
+# Target labels
+ ext_tinygltf
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tinygltf
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tinygltf.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_tinygltf-complete.rule
+/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-build.rule
+/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-configure.rule
+/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-download.rule
+/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-install.rule
+/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-patch.rule
+/home/runner/work/Open3D/Open3D/build/tinygltf/src/ext_tinygltf-stamp/ext_tinygltf-update.rule

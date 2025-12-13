@@ -1,0 +1,13 @@
+# Target labels
+ ext_curl
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_curl
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_curl.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_curl-complete.rule
+/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-build.rule
+/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-configure.rule
+/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-download.rule
+/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-install.rule
+/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-patch.rule
+/home/runner/work/Open3D/Open3D/build/curl/src/ext_curl-stamp/ext_curl-update.rule

@@ -1,0 +1,13 @@
+# Target labels
+ ext_uvatlas
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_uvatlas
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_uvatlas.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_uvatlas-complete.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-build.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-configure.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-download.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-install.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-patch.rule
+/home/runner/work/Open3D/Open3D/build/uvatlas/src/ext_uvatlas-stamp/ext_uvatlas-update.rule

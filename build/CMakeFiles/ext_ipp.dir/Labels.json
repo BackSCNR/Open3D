@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_ipp"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_ipp.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_ipp-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/ipp/src/ext_ipp-stamp/ext_ipp-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_ipp"
+		],
+		"name" : "ext_ipp"
+	}
+}

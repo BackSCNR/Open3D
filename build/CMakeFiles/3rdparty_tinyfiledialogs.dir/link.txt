@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/Release/libOpen3D_3rdparty_tinyfiledialogs.a CMakeFiles/3rdparty_tinyfiledialogs.dir/3rdparty/tinyfiledialogs/include/tinyfiledialogs/tinyfiledialogs.c.o
+/usr/bin/ranlib lib/Release/libOpen3D_3rdparty_tinyfiledialogs.a

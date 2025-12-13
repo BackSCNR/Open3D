@@ -1,0 +1,13 @@
+# Target labels
+ ext_embree
+# Source files and their labels
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_embree
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_embree.rule
+/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_embree-complete.rule
+/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-build.rule
+/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-configure.rule
+/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-download.rule
+/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-install.rule
+/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-mkdir.rule
+/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-patch.rule
+/home/runner/work/Open3D/Open3D/build/embree/src/ext_embree-stamp/ext_embree-update.rule

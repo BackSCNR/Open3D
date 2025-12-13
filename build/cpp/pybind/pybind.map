@@ -1,0 +1,7 @@
+{
+    global:
+        PyInit_pybind;
+        open3d_core_cuda_device_count;
+    local:
+        *;
+};

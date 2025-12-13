@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_jsoncpp"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_jsoncpp.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/CMakeFiles/ext_jsoncpp-complete.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-build.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-configure.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-download.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-install.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-mkdir.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-patch.rule"
+		},
+		{
+			"file" : "/home/runner/work/Open3D/Open3D/build/jsoncpp/src/ext_jsoncpp-stamp/ext_jsoncpp-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ext_jsoncpp"
+		],
+		"name" : "ext_jsoncpp"
+	}
+}
