@@ -5,15 +5,15 @@ on:
   workflow_dispatch:
     inputs:
       developer_build:
-        description: 'Set to OFF for Release builds.'
+        description: "Set to OFF for Release builds."
         required: false
-        default: 'ON'
+        default: "ON"
 
   push:
     branches:
       - main
   pull_request:
-    types: [opened, reopened, synchronize]  # Rebuild on new pushes to PR
+    types: [opened, reopened, synchronize] # Rebuild on new pushes to PR
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
@@ -27,7 +27,7 @@ env:
 jobs:
   MacOS:
     permissions:
-      contents: write  # upload
+      contents: write # upload
     runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: false
@@ -62,7 +62,7 @@ jobs:
       - name: Set up Python version
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Install dependencies
         run: |
@@ -73,20 +73,22 @@ jobs:
             ln -s $(which gfortran-13) /usr/local/bin/gfortran
           fi
 
-          # Install libomp 11.1.0 from old brew bottle for x64 catalina (10.15)
-          # / arm64 big sur (11.0). Directly installing the Ruby formula will
-          # install for the current OS.
-          # https://github.com/microsoft/LightGBM/issues/4229
-          if [[ ${{ runner.arch}} == "X64"  ]]; then
-            # x64 catalina (10.15) bottle
-            export LIBOMP_BOTTLE_HASH=45a5aa653bd45bd5ff5858580b1a4670c4b5a51ea29d68d45a53f72f56010e05
-          else # ARM64
-            # arm64 big_sur (11.0) bottle
-            export LIBOMP_BOTTLE_HASH=f87f7841eb8b72650fa771af39642361aec371ea1a1f94f081ecc0e8168a0e75
-          fi
-          curl -L -H "Authorization: Bearer QQ==" -o libomp-11.1.0.bottle.tar.gz \
-          https://ghcr.io/v2/homebrew/core/libomp/blobs/sha256:$LIBOMP_BOTTLE_HASH
-          brew install -f libomp-11.1.0.bottle.tar.gz
+          # # Install libomp 11.1.0 from old brew bottle for x64 catalina (10.15)
+          # # / arm64 big sur (11.0). Directly installing the Ruby formula will
+          # # install for the current OS.
+          # # https://github.com/microsoft/LightGBM/issues/4229
+          # if [[ ${{ runner.arch}} == "X64"  ]]; then
+          #   # x64 catalina (10.15) bottle
+          #   export LIBOMP_BOTTLE_HASH=45a5aa653bd45bd5ff5858580b1a4670c4b5a51ea29d68d45a53f72f56010e05
+          # else # ARM64
+          #   # arm64 big_sur (11.0) bottle
+          #   export LIBOMP_BOTTLE_HASH=f87f7841eb8b72650fa771af39642361aec371ea1a1f94f081ecc0e8168a0e75
+          # fi
+          # curl -L -H "Authorization: Bearer QQ==" -o libomp-11.1.0.bottle.tar.gz \
+          # https://ghcr.io/v2/homebrew/core/libomp/blobs/sha256:$LIBOMP_BOTTLE_HASH
+          # brew install -f libomp-11.1.0.bottle.tar.gz
+          # Install libomp via Homebrew
+          brew install libomp
 
           ccache -M 2G  # See .github/workflows/readme.md for ccache strategy.
       - name: Config and build
@@ -127,18 +129,18 @@ jobs:
         uses: actions/upload-artifact@v4
         if: ${{ env.BUILD_SHARED_LIBS == 'OFF' }}
         with:
-          name: open3d-app-macosx-10_15-${{ runner.arch}}
+          name: open3d-app-macosx-10_15-${{ runner.arch }}
           path: build/bin/open3d-*-app-macosx-10_15-${{ runner.arch }}.zip
           if-no-files-found: error
 
   fuse-viewer:
     permissions:
-      contents: write  # Release upload
+      contents: write # Release upload
     name: Fuse x64 and ARM64 viewer app
     runs-on: [macos-13]
     needs: [MacOS]
     steps:
-      - name: Checkout source code  # for gh release upload
+      - name: Checkout source code # for gh release upload
         uses: actions/checkout@v4
       - name: Download viewer apps
         uses: actions/download-artifact@v4
@@ -174,11 +176,10 @@ jobs:
           gh release upload main-devel open3d-*-app-macosx-10_15-universal2.zip --clobber
           gh release view main-devel
 
-
   build-wheel:
     name: Build wheel
     permissions:
-      contents: write  # upload
+      contents: write # upload
     runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: false
@@ -187,23 +188,23 @@ jobs:
         # macos-13 is Intel runner, macos-14 is Apple Silicon
         # https://github.com/actions/runner-images
         os: [macos-13, macos-14]
-        python_version: ['3.8', '3.9', '3.10', '3.11', '3.12']
+        python_version: ["3.8", "3.9", "3.10", "3.11", "3.12"]
         is_main:
           - ${{ github.ref == 'refs/heads/main' }}
         exclude:
           # TODO: remove macos-14 excludes when https://github.com/actions/setup-python/issues/808 is fixed
           - os: macos-14
-            python_version: '3.8'
+            python_version: "3.8"
           - os: macos-14
-            python_version: '3.9'
+            python_version: "3.9"
           - is_main: false
-            python_version: '3.8'
+            python_version: "3.8"
           - is_main: false
-            python_version: '3.9'
+            python_version: "3.9"
           - is_main: false
-            python_version: '3.10'
+            python_version: "3.10"
           - is_main: false
-            python_version: '3.11'
+            python_version: "3.11"
 
     env:
       BUILD_CUDA_MODULE: OFF
@@ -251,22 +252,24 @@ jobs:
           install_python_dependencies
 
           # Fix macos-14 arm64 runner image issues, see comments in MacOS job.
-          if [[ ${{ runner.arch}} == "ARM64"  ]]; then
+          if [[ ${{ runner.arch }} == "ARM64"  ]]; then
             ln -s $(which gfortran-13) /usr/local/bin/gfortran
           fi
 
-          # Install libomp 11.1.0. See comment above.
-          if [[ ${{ runner.arch}} == "X64"  ]]; then
-            # x64 catalina (10.15) bottle
-            export LIBOMP_BOTTLE_HASH=45a5aa653bd45bd5ff5858580b1a4670c4b5a51ea29d68d45a53f72f56010e05
-          else # ARM64
-            # arm64 big_sur (11.0) bottle
-            export LIBOMP_BOTTLE_HASH=f87f7841eb8b72650fa771af39642361aec371ea1a1f94f081ecc0e8168a0e75
-          fi
-          curl -L -H "Authorization: Bearer QQ==" -o libomp-11.1.0.bottle.tar.gz \
-          https://ghcr.io/v2/homebrew/core/libomp/blobs/sha256:$LIBOMP_BOTTLE_HASH
-          brew install -f libomp-11.1.0.bottle.tar.gz
-          brew install ccache
+          # # Install libomp 11.1.0. See comment above.
+          # if [[ ${{ runner.arch}} == "X64"  ]]; then
+          #   # x64 catalina (10.15) bottle
+          #   export LIBOMP_BOTTLE_HASH=45a5aa653bd45bd5ff5858580b1a4670c4b5a51ea29d68d45a53f72f56010e05
+          # else # ARM64
+          #   # arm64 big_sur (11.0) bottle
+          #   export LIBOMP_BOTTLE_HASH=f87f7841eb8b72650fa771af39642361aec371ea1a1f94f081ecc0e8168a0e75
+          # fi
+          # curl -L -H "Authorization: Bearer QQ==" -o libomp-11.1.0.bottle.tar.gz \
+          # https://ghcr.io/v2/homebrew/core/libomp/blobs/sha256:$LIBOMP_BOTTLE_HASH
+          # brew install -f libomp-11.1.0.bottle.tar.gz
+          # brew install ccache
+          # Install libomp via Homebrew
+          brew install libomp ccache
           ccache -M 2G  # See .github/workflows/readme.md for ccache strategy.
 
       - name: Config and build wheel
@@ -294,27 +297,26 @@ jobs:
           gh release upload main-devel build/lib/python_package/pip_package/${{ env.PIP_PKG_NAME }} --clobber
           gh release view main-devel
 
-
   fuse-wheel:
     name: Fuse universal2 wheel
     permissions:
-      contents: write  # Release upload
+      contents: write # Release upload
     runs-on: [macos-13]
     needs: [build-wheel]
     strategy:
       fail-fast: false
       # https://github.community/t/how-to-conditionally-include-exclude-items-in-matrix-eg-based-on-branch/16853/6
       matrix:
-        python_version: ['3.10', '3.11', '3.12']
+        python_version: ["3.10", "3.11", "3.12"]
         is_main:
           - ${{ github.ref == 'refs/heads/main' }}
         exclude:
           - is_main: false
-            python_version: '3.10'
+            python_version: "3.10"
           - is_main: false
-            python_version: '3.11'
+            python_version: "3.11"
     steps:
-      - name: Checkout source code  # for gh release upload
+      - name: Checkout source code # for gh release upload
         uses: actions/checkout@v4
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -371,22 +373,22 @@ jobs:
       fail-fast: false
       matrix:
         os: [macos-13, macos-14]
-        python_version: ['3.8', '3.9', '3.10', '3.11', '3.12']
+        python_version: ["3.8", "3.9", "3.10", "3.11", "3.12"]
         is_main:
           - ${{ github.ref == 'refs/heads/main' }}
         exclude:
           - os: macos-14
-            python_version: '3.8'
+            python_version: "3.8"
           - os: macos-14
-            python_version: '3.9'
+            python_version: "3.9"
           - is_main: false
-            python_version: '3.8'
+            python_version: "3.8"
           - is_main: false
-            python_version: '3.9'
+            python_version: "3.9"
           - is_main: false
-            python_version: '3.10'
+            python_version: "3.10"
           - is_main: false
-            python_version: '3.11'
+            python_version: "3.11"
 
     env:
       OPEN3D_ML_ROOT: ${{ github.workspace }}/Open3D-ML

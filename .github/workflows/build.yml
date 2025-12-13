@@ -23,7 +23,8 @@ jobs:
 
       - name: Install build dependencies
         run: |
-          sudo apt-get install libosmesa6-dev
+          sudo apt-get update
+          sudo apt-get install libosmesa6-dev libxml2-dev libxslt-dev
           sudo util/install_deps_ubuntu.sh
 
       - name: Make build folder and create C++ Makefiles
