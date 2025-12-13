@@ -1,4 +1,19 @@
-*.whl
+# Files > 50MB (Github size limit is 100MB)
+# find .  -size +50M
+build/mkl/src/
+build/bin/examples/
+build/uvatlas/
+build/ippicv/
+build/OfflineReconstruction/
+build/_deps/
+build/mkl_install/
+build/lib/python_package/open3d/cpu/*.so
+build/lib/python_package/build/lib/open3d/cpu/*.so
+build/lib/Release/Python/cpu/*.so
+build/lib/Release/libOpen3D.a
+*.so
+
+# *.whl
 
 # Docker build artifacts (wheel, dev package, ccache)
 docker/*.tar.gz
@@ -21,9 +36,10 @@ CMakeSettings.json
 
 # Temp directories
 3rdparty_downloads
-build*/
-cmake-build-debug/
-cmake-build-release/
+# build*/
+# cmake-build-debug/
+# cmake-build-release/
+build/*/src/
 util/pip_package/dist/
 doxygen/
 node_modules/
