@@ -87,8 +87,13 @@ jobs:
           # curl -L -H "Authorization: Bearer QQ==" -o libomp-11.1.0.bottle.tar.gz \
           # https://ghcr.io/v2/homebrew/core/libomp/blobs/sha256:$LIBOMP_BOTTLE_HASH
           # brew install -f libomp-11.1.0.bottle.tar.gz
-          # Install libomp via Homebrew
-          brew install libomp
+
+          # Install libomp 11.1.0 using brew extract (modern method)
+          # Open3D requires libomp 11.1.0 to avoid crashes with PyTorch
+          # https://github.com/microsoft/LightGBM/issues/4229
+          brew tap-new local/libomp
+          brew extract --version=11.1.0 libomp local/libomp
+          brew install libomp@11.1.0
 
           ccache -M 2G  # See .github/workflows/readme.md for ccache strategy.
       - name: Config and build
@@ -267,9 +272,13 @@ jobs:
           # curl -L -H "Authorization: Bearer QQ==" -o libomp-11.1.0.bottle.tar.gz \
           # https://ghcr.io/v2/homebrew/core/libomp/blobs/sha256:$LIBOMP_BOTTLE_HASH
           # brew install -f libomp-11.1.0.bottle.tar.gz
-          # brew install ccache
-          # Install libomp via Homebrew
-          brew install libomp ccache
+
+          # Install libomp 11.1.0 using brew extract (modern method)
+          # Open3D requires libomp 11.1.0 to avoid crashes with PyTorch
+          brew tap-new local/libomp
+          brew extract --version=11.1.0 libomp local/libomp
+          brew install libomp@11.1.0
+          brew install ccache
           ccache -M 2G  # See .github/workflows/readme.md for ccache strategy.
 
       - name: Config and build wheel
