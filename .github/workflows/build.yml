@@ -42,12 +42,13 @@ jobs:
 
       - name: Install in Python environment
         run: |
-          pip install -r python/requirements_build.txt 
+          pip install -r python/requirements_build.txt
           cd build
           make install-pip-package
 
       - name: Test Open3D
         run: |
+          pip install -r docs/requirements.txt
           cd examples/python/visualization
           python headless_rendering.py
 
