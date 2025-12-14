@@ -128,7 +128,7 @@ import open3d.visualization
 
 _insert_pybind_names(skip_names=("ml",))
 
-__version__ = "0.19.0+e484ed4"
+__version__ = "0.19.0+b54c94d"
 
 if int(sys.version_info[0]) < 3:
     raise Exception("Open3D only supports Python 3.")

@@ -67,7 +67,7 @@ include cpp/pybind/CMakeFiles/pip-package.dir/compiler_depend.make
 include cpp/pybind/CMakeFiles/pip-package.dir/progress.make
 
 cpp/pybind/CMakeFiles/pip-package:
-	cd /home/runner/work/Open3D/Open3D/build/lib/python_package && /opt/hostedtoolcache/Python/3.13.11/x64/bin/python3.13 setup.py bdist_wheel --dist-dir pip_package
+	cd /home/runner/work/Open3D/Open3D/build/lib/python_package && /opt/hostedtoolcache/Python/3.12.12/x64/bin/python3.12 setup.py bdist_wheel --dist-dir pip_package
 	cd /home/runner/work/Open3D/Open3D/build/lib/python_package && echo pip\ wheel\ created\ at\ /home/runner/work/Open3D/Open3D/build/lib/python_package/pip_package
 
 cpp/pybind/CMakeFiles/pip-package.dir/codegen:

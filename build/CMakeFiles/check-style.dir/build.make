@@ -67,8 +67,8 @@ include CMakeFiles/check-style.dir/compiler_depend.make
 include CMakeFiles/check-style.dir/progress.make
 
 CMakeFiles/check-style:
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/runner/work/Open3D/Open3D/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Python executable used for style check: /opt/hostedtoolcache/Python/3.13.11/x64/bin/python3.13."
-	/opt/hostedtoolcache/Python/3.13.11/x64/bin/python3.13 /home/runner/work/Open3D/Open3D/util/check_style.py
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/runner/work/Open3D/Open3D/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Python executable used for style check: /opt/hostedtoolcache/Python/3.12.12/x64/bin/python3.12."
+	/opt/hostedtoolcache/Python/3.12.12/x64/bin/python3.12 /home/runner/work/Open3D/Open3D/util/check_style.py
 
 CMakeFiles/check-style.dir/codegen:
 .PHONY : CMakeFiles/check-style.dir/codegen

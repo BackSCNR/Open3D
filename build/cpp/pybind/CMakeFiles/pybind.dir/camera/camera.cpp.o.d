@@ -4,64 +4,39 @@ cpp/pybind/CMakeFiles/pybind.dir/camera/camera.cpp.o: \
  /home/runner/work/Open3D/Open3D/cpp/pybind/../pybind/camera/camera.h \
  /home/runner/work/Open3D/Open3D/cpp/pybind/../pybind/open3d_pybind.h \
  /home/runner/work/Open3D/Open3D/build/_deps/ext_pybind11-src/include/pybind11/detail/common.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/Python.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/patchlevel.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pyconfig.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pymacconfig.h \
- /usr/include/assert.h /usr/include/features.h \
- /usr/include/features-time64.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/Python.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/patchlevel.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pyconfig.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pymacconfig.h \
+ /usr/include/c++/11/stdlib.h /usr/include/c++/11/cstdlib \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
+ /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/timesize.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/long-double.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
- /usr/include/x86_64-linux-gnu/gnu/stubs-64.h /usr/include/inttypes.h \
- /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \
- /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
- /usr/include/x86_64-linux-gnu/bits/types.h \
- /usr/include/x86_64-linux-gnu/bits/typesizes.h \
- /usr/include/x86_64-linux-gnu/bits/time64.h \
- /usr/include/x86_64-linux-gnu/bits/wchar.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
- /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
- /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
- /usr/include/x86_64-linux-gnu/bits/local_lim.h \
- /usr/include/linux/limits.h \
- /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
- /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
- /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
- /usr/include/x86_64-linux-gnu/bits/uio_lim.h /usr/include/c++/11/math.h \
- /usr/include/c++/11/cmath \
- /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
- /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/cpu_defines.h \
- /usr/include/c++/11/pstl/pstl_config.h \
- /usr/include/c++/11/bits/cpp_type_traits.h \
- /usr/include/c++/11/ext/type_traits.h /usr/include/math.h \
- /usr/include/x86_64-linux-gnu/bits/math-vector.h \
- /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
- /usr/include/x86_64-linux-gnu/bits/floatn.h \
- /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
- /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
- /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
- /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
- /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
- /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
- /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
- /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
- /usr/include/c++/11/bits/std_abs.h /usr/include/stdlib.h \
+ /usr/include/c++/11/pstl/pstl_config.h /usr/include/stdlib.h \
+ /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/time64.h \
  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
- /usr/include/x86_64-linux-gnu/bits/types/timer_t.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-intn.h /usr/include/endian.h \
  /usr/include/x86_64-linux-gnu/bits/endian.h \
  /usr/include/x86_64-linux-gnu/bits/endianness.h \
  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
@@ -82,6 +57,61 @@ cpp/pybind/CMakeFiles/pybind.dir/camera/camera.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ /usr/include/c++/11/bits/std_abs.h /usr/include/stdio.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+ /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+ /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/errno.h \
+ /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ /usr/include/x86_64-linux-gnu/bits/types/error_t.h /usr/include/string.h \
+ /usr/include/strings.h \
+ /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+ /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+ /usr/include/unistd.h /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+ /usr/include/x86_64-linux-gnu/bits/environments.h \
+ /usr/include/x86_64-linux-gnu/bits/confname.h \
+ /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
+ /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
+ /usr/include/x86_64-linux-gnu/bits/unistd.h \
+ /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
+ /usr/include/linux/close_range.h /usr/include/assert.h \
+ /usr/include/wchar.h /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/include/x86_64-linux-gnu/bits/types/wint_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar2.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pyport.h \
+ /usr/include/inttypes.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
+ /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+ /usr/include/linux/limits.h \
+ /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
+ /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/uio_lim.h /usr/include/c++/11/math.h \
+ /usr/include/c++/11/cmath /usr/include/c++/11/bits/cpp_type_traits.h \
+ /usr/include/c++/11/ext/type_traits.h /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
+ /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
  /usr/include/c++/11/bits/specfun.h \
  /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/c++/11/bits/functexcept.h \
@@ -108,158 +138,11 @@ cpp/pybind/CMakeFiles/pybind.dir/camera/camera.cpp.o: \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h /usr/include/wchar.h \
- /usr/include/x86_64-linux-gnu/bits/types/wint_t.h \
- /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h \
- /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
- /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
- /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
- /usr/include/x86_64-linux-gnu/bits/wchar2.h /usr/include/errno.h \
- /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
- /usr/include/x86_64-linux-gnu/asm/errno.h \
- /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
- /usr/include/x86_64-linux-gnu/bits/types/error_t.h /usr/include/stdio.h \
- /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
- /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
- /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
- /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
- /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /usr/include/x86_64-linux-gnu/bits/stdio.h \
- /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/c++/11/stdlib.h \
- /usr/include/c++/11/cstdlib /usr/include/string.h /usr/include/strings.h \
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
- /usr/include/ctype.h /usr/include/unistd.h \
- /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
- /usr/include/x86_64-linux-gnu/bits/environments.h \
- /usr/include/x86_64-linux-gnu/bits/confname.h \
- /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
- /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
- /usr/include/x86_64-linux-gnu/bits/unistd.h \
- /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
- /usr/include/linux/close_range.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pyport.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/exports.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pymacro.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pymath.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pymem.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pymem.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pytypedefs.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pybuffer.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pystats.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pyatomic.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pyatomic.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pyatomic_gcc.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/lock.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/lock.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/object.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/object.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/objimpl.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/objimpl.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/typeslots.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pyhash.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pyhash.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pydebug.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/bytearrayobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/bytearrayobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/bytesobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/bytesobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/unicodeobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/unicodeobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pyerrors.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pyerrors.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/longobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/longobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/longintrepr.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/boolobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/floatobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/floatobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/complexobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/complexobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/rangeobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/memoryobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/memoryobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/tupleobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/tupleobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/listobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/listobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/dictobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/dictobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/odictobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/enumobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/setobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/setobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/methodobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/methodobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/moduleobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/monitoring.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/monitoring.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/funcobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/classobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/fileobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/fileobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pycapsule.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/code.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pyframe.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pyframe.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/traceback.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/traceback.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/sliceobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/cellobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/iterobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/initconfig.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pystate.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pystate.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/genobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/descrobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/descrobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/genericaliasobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/warnings.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/warnings.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/weakrefobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/weakrefobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/structseq.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/picklebufobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pytime.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/codecs.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pythread.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pythread.h \
- /usr/include/pthread.h /usr/include/sched.h \
- /usr/include/x86_64-linux-gnu/bits/sched.h \
- /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h \
- /usr/include/x86_64-linux-gnu/bits/cpu-set.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/sys/time.h /usr/include/time.h \
  /usr/include/x86_64-linux-gnu/bits/time.h \
  /usr/include/x86_64-linux-gnu/bits/timex.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
- /usr/include/x86_64-linux-gnu/bits/setjmp.h \
- /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/context.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/modsupport.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/modsupport.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/compile.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/compile.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pythonrun.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pythonrun.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pylifecycle.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pylifecycle.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/ceval.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/ceval.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/sysmodule.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/sysmodule.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/osmodule.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/intrcheck.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/import.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/import.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/abstract.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/abstract.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/bltinmodule.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/critical_section.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/critical_section.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pyctype.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pystrtod.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pystrcmp.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/fileutils.h \
  /usr/include/x86_64-linux-gnu/sys/stat.h \
  /usr/include/x86_64-linux-gnu/bits/stat.h \
  /usr/include/x86_64-linux-gnu/bits/struct_stat.h \
@@ -275,12 +158,120 @@ cpp/pybind/CMakeFiles/pybind.dir/camera/camera.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/statx-generic.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_statx_timestamp.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_statx.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/fileutils.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/pyfpe.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/tracemalloc.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/frameobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/cpython/frameobject.h \
- /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13/pythread.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/exports.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pymacro.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pymath.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pymem.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/pymem.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pytypedefs.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pybuffer.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/object.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pystats.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/object.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/objimpl.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/objimpl.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/typeslots.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pyhash.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/pydebug.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/bytearrayobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/bytearrayobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/bytesobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/bytesobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/unicodeobject.h \
+ /usr/include/ctype.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/unicodeobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/initconfig.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pystate.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/pystate.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pyerrors.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/pyerrors.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/longobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/longobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/longintrepr.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/boolobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/floatobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/floatobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/complexobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/complexobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/rangeobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/memoryobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/memoryobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/tupleobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/tupleobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/listobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/listobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/dictobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/dictobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/odictobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/enumobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/setobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/setobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/methodobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/methodobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/moduleobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/funcobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/classobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/fileobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/fileobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pycapsule.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/code.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pyframe.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/pyframe.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/traceback.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/traceback.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/sliceobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/cellobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/iterobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/genobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/descrobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/descrobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/genericaliasobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/warnings.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/warnings.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/weakrefobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/weakrefobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/structseq.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/picklebufobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/pytime.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/codecs.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pythread.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/pythread.h \
+ /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/x86_64-linux-gnu/bits/sched.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h \
+ /usr/include/x86_64-linux-gnu/bits/cpu-set.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/context.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/modsupport.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/modsupport.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/compile.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/compile.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pythonrun.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/pythonrun.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pylifecycle.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/pylifecycle.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/ceval.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/ceval.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/sysmodule.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/sysmodule.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/osmodule.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/intrcheck.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/import.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/import.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/abstract.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/abstract.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/bltinmodule.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/pyctype.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pystrtod.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pystrcmp.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/fileutils.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/fileutils.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/pyfpe.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/tracemalloc.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/frameobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/cpython/frameobject.h \
+ /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12/pythread.h \
  /usr/include/c++/11/cstddef /usr/include/c++/11/cstring \
  /usr/include/c++/11/exception /usr/include/c++/11/bits/exception.h \
  /usr/include/c++/11/bits/exception_ptr.h \

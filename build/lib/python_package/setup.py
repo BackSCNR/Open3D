@@ -163,7 +163,7 @@ if sys.platform.startswith("linux") and platform.machine() in (
 
 setup_args = dict(
     name=name,
-    version="0.19.0+e484ed4",
+    version="0.19.0+b54c94d",
     python_requires=">=3.8",
     include_package_data=True,
     install_requires=install_requires,

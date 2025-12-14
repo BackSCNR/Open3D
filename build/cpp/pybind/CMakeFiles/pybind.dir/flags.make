@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DBUILD_ISPC_MODULE -DFMT_HEADER_ONLY=0 -DFMT_STRING_ALIAS=1 -DFMT_USE_WINDOWS_H=0 -DGLEW_OSMESA -DHEADLESS_RENDERING -DOPEN3D_CUDA_COMPILER_ID=\"\" -DOPEN3D_CUDA_COMPILER_VERSION=\"\" -DOPEN3D_CXX_COMPILER_ID=\"GNU\" -DOPEN3D_CXX_COMPILER_VERSION=\"11.4.0\" -DOPEN3D_CXX_STANDARD=\"17\" -DOPEN3D_STATIC -DUNIX -DWITH_IPP -DZMQ_STATIC -D_FORTIFY_SOURCE=2 -D_GLIBCXX_USE_CXX11_ABI=1 -Dpybind_EXPORTS
 
-CXX_INCLUDES = -I/home/runner/work/Open3D/Open3D/cpp/pybind/.. -I/home/runner/work/Open3D/Open3D/cpp -isystem /home/runner/work/Open3D/Open3D/build/_deps/ext_pybind11-src/include -isystem /opt/hostedtoolcache/Python/3.13.11/x64/include/python3.13 -isystem /home/runner/work/Open3D/Open3D/3rdparty/glew/include -isystem /home/runner/work/Open3D/Open3D/build/glfw/include -isystem /home/runner/work/Open3D/Open3D/build/fmt/include -isystem /home/runner/work/Open3D/Open3D/build/eigen/src/ext_eigen
+CXX_INCLUDES = -I/home/runner/work/Open3D/Open3D/cpp/pybind/.. -I/home/runner/work/Open3D/Open3D/cpp -isystem /home/runner/work/Open3D/Open3D/build/_deps/ext_pybind11-src/include -isystem /opt/hostedtoolcache/Python/3.12.12/x64/include/python3.12 -isystem /home/runner/work/Open3D/Open3D/3rdparty/glew/include -isystem /home/runner/work/Open3D/Open3D/build/glfw/include -isystem /home/runner/work/Open3D/Open3D/build/fmt/include -isystem /home/runner/work/Open3D/Open3D/build/eigen/src/ext_eigen
 
 CXX_FLAGS = -O3 -DNDEBUG -std=c++17 -fPIC -fvisibility=hidden -Wall -Wextra -Werror -Wno-unused-parameter -fdiagnostics-color=always -fstack-protector-strong -Wformat -Wformat-security -flto -fno-fat-lto-objects
 

@@ -67,7 +67,7 @@ include cpp/pybind/CMakeFiles/install-pip-package.dir/compiler_depend.make
 include cpp/pybind/CMakeFiles/install-pip-package.dir/progress.make
 
 cpp/pybind/CMakeFiles/install-pip-package:
-	cd /home/runner/work/Open3D/Open3D/build/cpp/pybind && /usr/local/bin/cmake -DPYTHON_PACKAGE_DST_DIR=/home/runner/work/Open3D/Open3D/build/lib/python_package -DPython3_EXECUTABLE=/opt/hostedtoolcache/Python/3.13.11/x64/bin/python3.13 -P /home/runner/work/Open3D/Open3D/cpp/pybind/make_install_pip_package.cmake
+	cd /home/runner/work/Open3D/Open3D/build/cpp/pybind && /usr/local/bin/cmake -DPYTHON_PACKAGE_DST_DIR=/home/runner/work/Open3D/Open3D/build/lib/python_package -DPython3_EXECUTABLE=/opt/hostedtoolcache/Python/3.12.12/x64/bin/python3.12 -P /home/runner/work/Open3D/Open3D/cpp/pybind/make_install_pip_package.cmake
 
 cpp/pybind/CMakeFiles/install-pip-package.dir/codegen:
 .PHONY : cpp/pybind/CMakeFiles/install-pip-package.dir/codegen

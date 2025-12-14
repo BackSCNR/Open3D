@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "../../lib/Release/Python/cpu/pybind.cpython-313-x86_64-linux-gnu.so"
+  "../../lib/Release/Python/cpu/pybind.cpython-312-x86_64-linux-gnu.so"
   "../../lib/Release/Python/cpu/pybind.pdb"
   "CMakeFiles/pybind.dir/camera/camera.cpp.o"
   "CMakeFiles/pybind.dir/camera/camera.cpp.o.d"

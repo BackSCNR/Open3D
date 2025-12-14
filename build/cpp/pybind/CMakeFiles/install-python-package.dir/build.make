@@ -67,7 +67,7 @@ include cpp/pybind/CMakeFiles/install-python-package.dir/compiler_depend.make
 include cpp/pybind/CMakeFiles/install-python-package.dir/progress.make
 
 cpp/pybind/CMakeFiles/install-python-package:
-	cd /home/runner/work/Open3D/Open3D/build/lib/python_package && /opt/hostedtoolcache/Python/3.13.11/x64/bin/python3.13 setup.py install --single-version-externally-managed --root=/
+	cd /home/runner/work/Open3D/Open3D/build/lib/python_package && /opt/hostedtoolcache/Python/3.12.12/x64/bin/python3.12 setup.py install --single-version-externally-managed --root=/
 
 cpp/pybind/CMakeFiles/install-python-package.dir/codegen:
 .PHONY : cpp/pybind/CMakeFiles/install-python-package.dir/codegen
